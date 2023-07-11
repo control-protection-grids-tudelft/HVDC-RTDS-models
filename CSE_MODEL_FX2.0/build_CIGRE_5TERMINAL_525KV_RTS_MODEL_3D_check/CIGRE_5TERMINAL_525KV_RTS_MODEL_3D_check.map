@@ -877,7 +877,7 @@
    in subsystem: #1
    is assigned to Core #4
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -889,7 +889,7 @@
    in subsystem: #1
    is assigned to Core #4
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -949,7 +949,7 @@
    in subsystem: #1
    is assigned to Core #1
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -961,7 +961,7 @@
    in subsystem: #1
    is assigned to Core #1
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -973,7 +973,7 @@
    in subsystem: #1
    is assigned to Core #3
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -985,7 +985,7 @@
    in subsystem: #1
    is assigned to Core #3
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -997,7 +997,7 @@
    in subsystem: #1
    is assigned to Core #4
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1009,7 +1009,7 @@
    in subsystem: #1
    is assigned to Core #4
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1069,7 +1069,7 @@
    in subsystem: #1
    is assigned to Core #1
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1081,7 +1081,7 @@
    in subsystem: #1
    is assigned to Core #1
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1093,7 +1093,7 @@
    in subsystem: #1
    is assigned to Core #3
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1105,7 +1105,7 @@
    in subsystem: #1
    is assigned to Core #3
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1117,7 +1117,7 @@
    in subsystem: #1
    is assigned to Core #4
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1129,7 +1129,7 @@
    in subsystem: #1
    is assigned to Core #4
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1189,7 +1189,7 @@
    in subsystem: #1
    is assigned to Core #1
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1201,7 +1201,7 @@
    in subsystem: #1
    is assigned to Core #1
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1213,7 +1213,7 @@
    in subsystem: #1
    is assigned to Core #3
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1225,7 +1225,7 @@
    in subsystem: #1
    is assigned to Core #3
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1237,7 +1237,7 @@
    in subsystem: #1
    is assigned to Core #4
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1249,7 +1249,7 @@
    in subsystem: #1
    is assigned to Core #4
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1309,7 +1309,7 @@
    in subsystem: #1
    is assigned to Core #1
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1321,7 +1321,7 @@
    in subsystem: #1
    is assigned to Core #1
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1333,7 +1333,7 @@
    in subsystem: #1
    is assigned to Core #3
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1345,7 +1345,7 @@
    in subsystem: #1
    is assigned to Core #3
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1357,7 +1357,7 @@
    in subsystem: #1
    is assigned to Core #4
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1369,7 +1369,7 @@
    in subsystem: #1
    is assigned to Core #4
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1429,7 +1429,7 @@
    in subsystem: #1
    is assigned to Core #1
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1441,7 +1441,7 @@
    in subsystem: #1
    is assigned to Core #1
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1453,7 +1453,7 @@
    in subsystem: #1
    is assigned to Core #3
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1465,7 +1465,7 @@
    in subsystem: #1
    is assigned to Core #3
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1477,7 +1477,7 @@
    in subsystem: #1
    is assigned to Core #4
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1489,7 +1489,7 @@
    in subsystem: #1
    is assigned to Core #4
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1549,7 +1549,7 @@
    in subsystem: #1
    is assigned to Core #1
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1561,7 +1561,7 @@
    in subsystem: #1
    is assigned to Core #1
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1573,7 +1573,7 @@
    in subsystem: #1
    is assigned to Core #3
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
@@ -1585,7 +1585,7 @@
    in subsystem: #1
    is assigned to Core #3
 
-   The VSC component represents 200
+   The VSC component represents 240
    half-bridge submodules connected in series.
    The VSC component alone is expected to require 330 processor 
    clock cycles for execution on a GX750 IBM processor.
