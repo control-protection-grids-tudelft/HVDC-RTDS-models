@@ -1,0 +1,1092 @@
+
+  Subsystem Number 1 
+  ********************
+  ********************
+
+       Flag T0
+       *******
+           1  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=44" from core  1  for node = 44    
+           2  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=42" from core  1  for node = 42    
+           3  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=43" from core  1  for node = 43    
+           4  XXX    Local     SS1         cadr_injn  " injn_src_sub=0_dest_sub=0_destn_node=6" from core  1  for node = 6     
+           5  XXX    Local     SS1         cadr_injn  " injn_src_sub=0_dest_sub=0_destn_node=4" from core  1  for node = 4     
+           6  XXX    Local     SS1         cadr_injn  " injn_src_sub=0_dest_sub=0_destn_node=5" from core  1  for node = 5     
+           7  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=41" from core  1  for node = 41    
+           8  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=39" from core  1  for node = 39    
+           9  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=40" from core  1  for node = 40    
+          10  XXX    Local     SS1         cadr_injn  " injn_src_sub=0_dest_sub=0_destn_node=7" from core  5  for node = 7     
+          11  XXX    Local     SS1         cadr_injn  " injn_src_sub=0_dest_sub=0_destn_node=8" from core  5  for node = 8     
+          12  XXX    Local     SS1         cadr_injn  " injn_src_sub=0_dest_sub=0_destn_node=9" from core  5  for node = 9     
+          13  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=17" from core  5  for node = 17    
+          14  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=18" from core  5  for node = 18    
+          15  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=16" from core  5  for node = 16    
+          16  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=29" from core  5  for node = 29    
+          17  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=28" from core  5  for node = 28    
+          18  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=27" from core  5  for node = 27    
+          19  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=24" from core  5  for node = 24    
+          20  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=20" from core  5  for node = 20    
+          21  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=23" from core  5  for node = 23    
+          22  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=33" from core  5  for node = 33    
+          23  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=34" from core  5  for node = 34    
+          24  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=35" from core  5  for node = 35    
+          25  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=36" from core  5  for node = 36    
+          26  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=25" from core  5  for node = 25    
+          27  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=26" from core  5  for node = 26    
+          28  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=45" from core  5  for node = 45    
+          29  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=48" from core  5  for node = 48    
+          30  XXX    Local     SS1         cadr_injn  " injn_src_sub=0_dest_sub=0_destn_node=1" from core  5  for node = 1     
+          31  XXX    Local     SS1         cadr_injn  " injn_src_sub=0_dest_sub=0_destn_node=2" from core  5  for node = 2     
+          32  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=47" from core  5  for node = 47    
+          33  XXX    Local     SS1         cadr_injn  " injn_src_sub=0_dest_sub=0_destn_node=3" from core  5  for node = 3     
+          34  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=46" from core  5  for node = 46    
+          35  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=10" from core  5  for node = 10    
+          36  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=11" from core  5  for node = 11    
+          37  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=12" from core  5  for node = 12    
+          38  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=13" from core  5  for node = 13    
+          39  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=14" from core  5  for node = 14    
+          40  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=15" from core  5  for node = 15    
+          41  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=19" from core  5  for node = 19    
+          42  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=30" from core  5  for node = 30    
+          43  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=31" from core  5  for node = 31    
+          44  XXX    Local     SS1         cadr_injn  "injn_src_sub=0_dest_sub=0_destn_node=32" from core  5  for node = 32    
+          45  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          46  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          47  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          48  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          49  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          50  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          51  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          52  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          53  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          54  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          55  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          56  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          57  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          58  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          59  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          60  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          61  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          62  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          63  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          64  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          65  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          66  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          67  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          68  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          69  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          70  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          71  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          72  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+          73  XXX    Local     SS1        gadr_gvalu  "                                       " from core  5  
+
+       Flag T1
+       *******
+           1  XXX    Local     SS1      node_voltage  "WF1Vtr1SecA" from core  2  for node = 1     
+           2  XXX    Local     SS1      node_voltage  "WF1Vtr1SecB" from core  2  for node = 2     
+           3  XXX    Local     SS1      node_voltage  "WF1Vtr1SecC" from core  2  for node = 3     
+           4  XXX    Local     SS1      node_voltage  "  WT1Vcon1A" from core  2  for node = 10    
+           5  XXX    Local     SS1      node_voltage  "  WT1Vcon1B" from core  2  for node = 11    
+           6  XXX    Local     SS1      node_voltage  "  WT1Vcon1C" from core  2  for node = 12    
+           7  XXX    Local     SS1      node_voltage  "         13" from core  2  for node = 13    
+           8  XXX    Local     SS1      node_voltage  "         14" from core  2  for node = 14    
+           9  XXX    Local     SS1      node_voltage  "         15" from core  2  for node = 15    
+          10  XXX    Local     SS1      node_voltage  "    WT1VdcP" from core  2  for node = 19    
+          11  XXX    Local     SS1      node_voltage  "         23" from core  2  for node = 23    
+          12  XXX    Local     SS1      node_voltage  "         24" from core  2  for node = 24    
+          13  XXX    Local     SS1      node_voltage  "    WT1VdcN" from core  2  for node = 25    
+          14  XXX    Local     SS1      node_voltage  "         26" from core  2  for node = 26    
+          15  XXX    Local     SS1      node_voltage  "         29" from core  2  for node = 29    
+          16  XXX    Local     SS1      node_voltage  "         30" from core  2  for node = 30    
+          17  XXX    Local     SS1      node_voltage  "         31" from core  2  for node = 31    
+          18  XXX    Local     SS1      node_voltage  "         32" from core  2  for node = 32    
+          19  XXX    Local     SS1      node_voltage  "         33" from core  2  for node = 33    
+          20  XXX    Local     SS1      node_voltage  "         45" from core  2  for node = 45    
+          21  XXX    Local     SS1      node_voltage  "         46" from core  2  for node = 46    
+          22  XXX    Local     SS1      node_voltage  "         47" from core  2  for node = 47    
+          23  XXX    Local     SS1      node_voltage  "         48" from core  2  for node = 48    
+
+       Flag T2
+       *******
+           1  XXX    Local     SS1  named_signal_prc  "           IAbrh_CSA1N" from core  1  
+           2  XXX    Local     SS1  named_signal_prc  "           IBbrh_CSA1N" from core  1  
+           3  XXX    Local     SS1  named_signal_prc  "           ICbrh_CSA1N" from core  1  
+           4  XXX    Local     SS1  named_signal_prc  "           IAbrh_CSA1P" from core  1  
+           5  XXX    Local     SS1  named_signal_prc  "           IBbrh_CSA1P" from core  1  
+           6  XXX    Local     SS1  named_signal_prc  "           ICbrh_CSA1P" from core  1  
+           7  XXX    Local     SS1  named_signal_prc  "           IAbrh_CSA2N" from core  1  
+           8  XXX    Local     SS1  named_signal_prc  "           IBbrh_CSA2N" from core  1  
+           9  XXX    Local     SS1  named_signal_prc  "           ICbrh_CSA2N" from core  1  
+          10  XXX    Local     SS1  named_signal_prc  "           IAbrh_CSA2P" from core  1  
+          11  XXX    Local     SS1  named_signal_prc  "           IBbrh_CSA2P" from core  1  
+          12  XXX    Local     SS1  named_signal_prc  "           ICbrh_CSA2P" from core  1  
+          13  XXX    Local     SS1  named_signal_prc  "              PWR_CSA1" from core  1  
+          14  XXX    Local     SS1  named_signal_prc  "             Idc_CSA1P" from core  1  
+          15  XXX    Local     SS1  named_signal_prc  "             Idc_CSA1N" from core  1  
+          16  XXX    Local     SS1  named_signal_prc  "             Idc_CSA2P" from core  1  
+          17  XXX    Local     SS1  named_signal_prc  "             Idc_CSA2N" from core  1  
+          18  XXX    Local     SS1  named_signal_prc  "         G1NACRT_CSA1N" from core  1  
+          19  XXX    Local     SS1  named_signal_prc  "         G1NACRT_CSA1P" from core  1  
+          20  XXX    Local     SS1  named_signal_prc  "         G1NACRT_CSA2N" from core  1  
+          21  XXX    Local     SS1  named_signal_prc  "         G1NACRT_CSA2P" from core  1  
+          22  XXX    Local     SS1  named_signal_prc  "         G1NBCRT_CSA1N" from core  1  
+          23  XXX    Local     SS1  named_signal_prc  "         G1NBCRT_CSA1P" from core  1  
+          24  XXX    Local     SS1  named_signal_prc  "         G1NBCRT_CSA2N" from core  1  
+          25  XXX    Local     SS1  named_signal_prc  "         G1NBCRT_CSA2P" from core  1  
+          26  XXX    Local     SS1  named_signal_prc  "         G1NCCRT_CSA1N" from core  1  
+          27  XXX    Local     SS1  named_signal_prc  "         G1NCCRT_CSA1P" from core  1  
+          28  XXX    Local     SS1  named_signal_prc  "         G1NCCRT_CSA2N" from core  1  
+          29  XXX    Local     SS1  named_signal_prc  "         G1NCCRT_CSA2P" from core  1  
+          30  XXX    Local     SS1  named_signal_prc  "         G1PACRT_CSA1N" from core  1  
+          31  XXX    Local     SS1  named_signal_prc  "         G1PACRT_CSA1P" from core  1  
+          32  XXX    Local     SS1  named_signal_prc  "         G1PACRT_CSA2N" from core  1  
+          33  XXX    Local     SS1  named_signal_prc  "         G1PACRT_CSA2P" from core  1  
+          34  XXX    Local     SS1  named_signal_prc  "         G1PBCRT_CSA1N" from core  1  
+          35  XXX    Local     SS1  named_signal_prc  "         G1PBCRT_CSA1P" from core  1  
+          36  XXX    Local     SS1  named_signal_prc  "         G1PBCRT_CSA2N" from core  1  
+          37  XXX    Local     SS1  named_signal_prc  "         G1PBCRT_CSA2P" from core  1  
+          38  XXX    Local     SS1  named_signal_prc  "         G1PCCRT_CSA1N" from core  1  
+          39  XXX    Local     SS1  named_signal_prc  "         G1PCCRT_CSA1P" from core  1  
+          40  XXX    Local     SS1  named_signal_prc  "         G1PCCRT_CSA2N" from core  1  
+          41  XXX    Local     SS1  named_signal_prc  "         G1PCCRT_CSA2P" from core  1  
+          42  XXX    Local     SS1  named_signal_prc  "             IAP_CSA1N" from core  1  
+          43  XXX    Local     SS1  named_signal_prc  "             IBP_CSA1N" from core  1  
+          44  XXX    Local     SS1  named_signal_prc  "             ICP_CSA1N" from core  1  
+          45  XXX    Local     SS1  named_signal_prc  "             IAP_CSA1P" from core  1  
+          46  XXX    Local     SS1  named_signal_prc  "             IAS_CSA1P" from core  1  
+          47  XXX    Local     SS1  named_signal_prc  "             IBP_CSA1P" from core  1  
+          48  XXX    Local     SS1  named_signal_prc  "             IBS_CSA1P" from core  1  
+          49  XXX    Local     SS1  named_signal_prc  "             ICP_CSA1P" from core  1  
+          50  XXX    Local     SS1  named_signal_prc  "             ICS_CSA1P" from core  1  
+          51  XXX    Local     SS1  named_signal_prc  "             IAP_CSA2N" from core  1  
+          52  XXX    Local     SS1  named_signal_prc  "             IBP_CSA2N" from core  1  
+          53  XXX    Local     SS1  named_signal_prc  "             ICP_CSA2N" from core  1  
+          54  XXX    Local     SS1  named_signal_prc  "             IAP_CSA2P" from core  1  
+          55  XXX    Local     SS1  named_signal_prc  "             IAS_CSA2P" from core  1  
+          56  XXX    Local     SS1  named_signal_prc  "             IBP_CSA2P" from core  1  
+          57  XXX    Local     SS1  named_signal_prc  "             IBS_CSA2P" from core  1  
+          58  XXX    Local     SS1  named_signal_prc  "             ICP_CSA2P" from core  1  
+          59  XXX    Local     SS1  named_signal_prc  "             ICS_CSA2P" from core  1  
+          60  XXX    Local     SS1  vsc_node_voltage  "               N1_CSA2" from core  1  
+          61  XXX    Local     SS1  vsc_node_voltage  "               N2_CSA2" from core  1  
+          62  XXX    Local     SS1  vsc_node_voltage  "               N3_CSA2" from core  1  
+          63  XXX    Local     SS1  vsc_node_voltage  "             Vta_CSA2P" from core  1  
+          64  XXX    Local     SS1  vsc_node_voltage  "             Vtc_CSA2P" from core  1  
+          65  XXX    Local     SS1  vsc_node_voltage  "             Vta_CSA2N" from core  1  
+          66  XXX    Local     SS1  vsc_node_voltage  "             Vtc_CSA2N" from core  1  
+          67  XXX    Local     SS1  vsc_node_voltage  "             Vtb_CSA2P" from core  1  
+          68  XXX    Local     SS1  vsc_node_voltage  "             Vtb_CSA2N" from core  1  
+          69  XXX    Local     SS1  vsc_node_voltage  "          VDCNEG_CSA2P" from core  1  
+          70  XXX    Local     SS1  vsc_node_voltage  "          VDCPOS_CSA2P" from core  1  
+          71  XXX    Local     SS1  vsc_node_voltage  "               N2_CSA1" from core  1  
+          72  XXX    Local     SS1  vsc_node_voltage  "               N1_CSA1" from core  1  
+          73  XXX    Local     SS1  vsc_node_voltage  "               N3_CSA1" from core  1  
+          74  XXX    Local     SS1  vsc_node_voltage  "             Vta_CSA1P" from core  1  
+          75  XXX    Local     SS1  vsc_node_voltage  "             Vtc_CSA1P" from core  1  
+          76  XXX    Local     SS1  vsc_node_voltage  "             Vta_CSA1N" from core  1  
+          77  XXX    Local     SS1  vsc_node_voltage  "             Vtc_CSA1N" from core  1  
+          78  XXX    Local     SS1  vsc_node_voltage  "             Vtb_CSA1P" from core  1  
+          79  XXX    Local     SS1  vsc_node_voltage  "             Vtb_CSA1N" from core  1  
+          80  XXX    Local     SS1  vsc_node_voltage  "          VDCNEG_CSA1P" from core  1  
+          81  XXX    Local     SS1  vsc_node_voltage  "          VDCPOS_CSA1P" from core  1  
+          82  XXX    Local     SS1  named_signal_prc  "              BRK_CSA1" from core  2  
+          83  XXX    Local     SS1  named_signal_prc  "              BRK_CSA2" from core  2  
+          84  XXX    Local     SS1  named_signal_prc  "                WF1IGA" from core  2  
+          85  XXX    Local     SS1  named_signal_prc  "                WF1IGB" from core  2  
+          86  XXX    Local     SS1  named_signal_prc  "                WF1IGC" from core  2  
+          87  XXX    Local     SS1  named_signal_prc  "                   Ivi" from core  2  
+          88  XXX    Local     SS1  named_signal_prc  "                  Ivi1" from core  2  
+          89  XXX    Local     SS1  named_signal_prc  "                 Ivi1x" from core  2  
+          90  XXX    Local     SS1  named_signal_prc  "                  Ivix" from core  2  
+          91  XXX    Local     SS1  named_signal_prc  "             WT1Ichop1" from core  2  
+          92  XXX    Local     SS1  named_signal_prc  "                   Iag" from core  2  
+          93  XXX    Local     SS1      node_voltage  "           WF1Vtr1SecA" from core  2  for node = 1     
+          94  XXX    Local     SS1      node_voltage  "           WF1Vtr1SecB" from core  2  for node = 2     
+          95  XXX    Local     SS1      node_voltage  "           WF1Vtr1SecC" from core  2  for node = 3     
+          96  XXX    Local     SS1      node_voltage  "                     4" from core  2  for node = 4     
+          97  XXX    Local     SS1      node_voltage  "                     5" from core  2  for node = 5     
+          98  XXX    Local     SS1      node_voltage  "                     6" from core  2  for node = 6     
+          99  XXX    Local     SS1      node_voltage  "                     7" from core  2  for node = 7     
+         100  XXX    Local     SS1      node_voltage  "                     8" from core  2  for node = 8     
+         101  XXX    Local     SS1      node_voltage  "                     9" from core  2  for node = 9     
+         102  XXX    Local     SS1      node_voltage  "             WT1Vcon1A" from core  2  for node = 10    
+         103  XXX    Local     SS1      node_voltage  "             WT1Vcon1B" from core  2  for node = 11    
+         104  XXX    Local     SS1      node_voltage  "             WT1Vcon1C" from core  2  for node = 12    
+         105  XXX    Local     SS1      node_voltage  "                    13" from core  2  for node = 13    
+         106  XXX    Local     SS1      node_voltage  "                    14" from core  2  for node = 14    
+         107  XXX    Local     SS1      node_voltage  "                    15" from core  2  for node = 15    
+         108  XXX    Local     SS1      node_voltage  "                    16" from core  2  for node = 16    
+         109  XXX    Local     SS1      node_voltage  "                    17" from core  2  for node = 17    
+         110  XXX    Local     SS1      node_voltage  "                    18" from core  2  for node = 18    
+         111  XXX    Local     SS1      node_voltage  "               WT1VdcP" from core  2  for node = 19    
+         112  XXX    Local     SS1      node_voltage  "             VDC_CSA1N" from core  2  for node = 20    
+         113  XXX    Local     SS1      node_voltage  "             VDC_CSA1P" from core  2  for node = 21    
+         114  XXX    Local     SS1      node_voltage  "                    22" from core  2  for node = 22    
+         115  XXX    Local     SS1      node_voltage  "                    23" from core  2  for node = 23    
+         116  XXX    Local     SS1      node_voltage  "                    24" from core  2  for node = 24    
+         117  XXX    Local     SS1      node_voltage  "               WT1VdcN" from core  2  for node = 25    
+         118  XXX    Local     SS1      node_voltage  "                    26" from core  2  for node = 26    
+         119  XXX    Local     SS1      node_voltage  "                    27" from core  2  for node = 27    
+         120  XXX    Local     SS1      node_voltage  "             VDC_CSA2N" from core  2  for node = 28    
+         121  XXX    Local     SS1      node_voltage  "                    29" from core  2  for node = 29    
+         122  XXX    Local     SS1      node_voltage  "                    30" from core  2  for node = 30    
+         123  XXX    Local     SS1      node_voltage  "                    31" from core  2  for node = 31    
+         124  XXX    Local     SS1      node_voltage  "                    32" from core  2  for node = 32    
+         125  XXX    Local     SS1      node_voltage  "                    33" from core  2  for node = 33    
+         126  XXX    Local     SS1      node_voltage  "             WT1VstatA" from core  2  for node = 34    
+         127  XXX    Local     SS1      node_voltage  "             WT1VstatB" from core  2  for node = 35    
+         128  XXX    Local     SS1      node_voltage  "             WT1VstatC" from core  2  for node = 36    
+         129  XXX    Local     SS1      node_voltage  "                    37" from core  2  for node = 37    
+         130  XXX    Local     SS1      node_voltage  "             VDC_CSA2P" from core  2  for node = 38    
+         131  XXX    Local     SS1      node_voltage  "                    39" from core  2  for node = 39    
+         132  XXX    Local     SS1      node_voltage  "                    40" from core  2  for node = 40    
+         133  XXX    Local     SS1      node_voltage  "                    41" from core  2  for node = 41    
+         134  XXX    Local     SS1      node_voltage  "                WF1VGB" from core  2  for node = 42    
+         135  XXX    Local     SS1      node_voltage  "                WF1VGC" from core  2  for node = 43    
+         136  XXX    Local     SS1      node_voltage  "                WF1VGA" from core  2  for node = 44    
+         137  XXX    Local     SS1      node_voltage  "                    45" from core  2  for node = 45    
+         138  XXX    Local     SS1      node_voltage  "                    46" from core  2  for node = 46    
+         139  XXX    Local     SS1      node_voltage  "                    47" from core  2  for node = 47    
+         140  XXX    Local     SS1      node_voltage  "                    48" from core  2  for node = 48    
+         141  XXX    Local     SS1  named_signal_prc  "               DCFLTpg" from core  3  
+         142  XXX    Local     SS1  named_signal_prc  "       IT_@DNP_CSA2_16" from core  3  
+         143  XXX    Local     SS1  named_signal_prc  "        IT_@DNP_CSA2_4" from core  3  
+         144  XXX    Local     SS1  named_signal_prc  "               WT1VdST" from core  3  
+         145  XXX    Local     SS1  named_signal_prc  "               WT1VqST" from core  3  
+         146  XXX    Local     SS1  named_signal_prc  "           WT1ModwvA2x" from core  3  
+         147  XXX    Local     SS1  named_signal_prc  "           WT1ModwvB2x" from core  3  
+         148  XXX    Local     SS1  named_signal_prc  "           WT1ModwvC2x" from core  3  
+         149  XXX    Local     SS1  named_signal_prc  "           WT1ModwvA1x" from core  3  
+         150  XXX    Local     SS1  named_signal_prc  "           WT1ModwvB1x" from core  3  
+         151  XXX    Local     SS1  named_signal_prc  "           WT1ModwvC1x" from core  3  
+         152  XXX    Local     SS1  named_signal_prc  "         N1_CSA2PpuPOS" from core  3  
+         153  XXX    Local     SS1  named_signal_prc  "         N2_CSA2PpuPOS" from core  3  
+         154  XXX    Local     SS1  named_signal_prc  "         N3_CSA2PpuPOS" from core  3  
+         155  XXX    Local     SS1  named_signal_prc  "         N1_CSA2PpuNEG" from core  3  
+         156  XXX    Local     SS1  named_signal_prc  "         N2_CSA2PpuNEG" from core  3  
+         157  XXX    Local     SS1  named_signal_prc  "         N3_CSA2PpuNEG" from core  3  
+         158  XXX    Local     SS1  named_signal_prc  "         N1_CSA2NpuPOS" from core  3  
+         159  XXX    Local     SS1  named_signal_prc  "         N2_CSA2NpuPOS" from core  3  
+         160  XXX    Local     SS1  named_signal_prc  "         N3_CSA2NpuPOS" from core  3  
+         161  XXX    Local     SS1  named_signal_prc  "         N1_CSA2NpuNEG" from core  3  
+         162  XXX    Local     SS1  named_signal_prc  "         N2_CSA2NpuNEG" from core  3  
+         163  XXX    Local     SS1  named_signal_prc  "         N3_CSA2NpuNEG" from core  3  
+         164  XXX    Local     SS1  named_signal_prc  "        IaT_CSA2PpuPOS" from core  3  
+         165  XXX    Local     SS1  named_signal_prc  "        IbT_CSA2PpuPOS" from core  3  
+         166  XXX    Local     SS1  named_signal_prc  "        IcT_CSA2PpuPOS" from core  3  
+         167  XXX    Local     SS1  named_signal_prc  "        IaT_CSA2PpuNEG" from core  3  
+         168  XXX    Local     SS1  named_signal_prc  "        IbT_CSA2PpuNEG" from core  3  
+         169  XXX    Local     SS1  named_signal_prc  "        IcT_CSA2PpuNEG" from core  3  
+         170  XXX    Local     SS1  named_signal_prc  "        IaT_CSA2NpuPOS" from core  3  
+         171  XXX    Local     SS1  named_signal_prc  "        IbT_CSA2NpuPOS" from core  3  
+         172  XXX    Local     SS1  named_signal_prc  "        IcT_CSA2NpuPOS" from core  3  
+         173  XXX    Local     SS1  named_signal_prc  "        IaT_CSA2NpuNEG" from core  3  
+         174  XXX    Local     SS1  named_signal_prc  "        IbT_CSA2NpuNEG" from core  3  
+         175  XXX    Local     SS1  named_signal_prc  "        IcT_CSA2NpuNEG" from core  3  
+         176  XXX    Local     SS1  named_signal_prc  "            Vdpu_CSA2P" from core  3  
+         177  XXX    Local     SS1  named_signal_prc  "            Vqpu_CSA2P" from core  3  
+         178  XXX    Local     SS1  named_signal_prc  "            Vdpu_CSA2N" from core  3  
+         179  XXX    Local     SS1  named_signal_prc  "            Vqpu_CSA2N" from core  3  
+         180  XXX    Local     SS1  named_signal_prc  "              id_CSA2P" from core  3  
+         181  XXX    Local     SS1  named_signal_prc  "              iq_CSA2P" from core  3  
+         182  XXX    Local     SS1  named_signal_prc  "              id_CSA2N" from core  3  
+         183  XXX    Local     SS1  named_signal_prc  "              iq_CSA2N" from core  3  
+         184  XXX    Local     SS1  named_signal_prc  "            WT1thetaLL" from core  3  
+         185  XXX    Local     SS1  named_signal_prc  "            WT1thetaPh" from core  3  
+         186  XXX    Local     SS1  named_signal_prc  "          WT1RotAngePh" from core  3  
+         187  XXX    Local     SS1  named_signal_prc  "           Theta_CSA2N" from core  3  
+         188  XXX    Local     SS1  named_signal_prc  "           Theta_CSA2P" from core  3  
+         189  XXX    Local     SS1  named_signal_prc  "           thPLL_CSA2P" from core  3  
+         190  XXX    Local     SS1  named_signal_prc  "           thPLL_CSA2N" from core  3  
+         191  XXX    Local     SS1  named_signal_prc  "        Th_CSA2PsecPOS" from core  3  
+         192  XXX    Local     SS1  named_signal_prc  "        Th_CSA2NsecPOS" from core  3  
+         193  XXX    Local     SS1  named_signal_prc  "        Th_CSA2PsecNEG" from core  3  
+         194  XXX    Local     SS1  named_signal_prc  "        Th_CSA2NsecNEG" from core  3  
+         195  XXX    Local     SS1  named_signal_prc  "            SP1TANGLE2" from core  3  
+         196  XXX    Local     SS1  named_signal_prc  "            SP1TANGLE1" from core  3  
+         197  XXX    Local     SS1  named_signal_prc  "             Vza_CSA2P" from core  3  
+         198  XXX    Local     SS1  named_signal_prc  "             Vzc_CSA2P" from core  3  
+         199  XXX    Local     SS1  named_signal_prc  "             Vzb_CSA2P" from core  3  
+         200  XXX    Local     SS1  named_signal_prc  "             Vza_CSA2N" from core  3  
+         201  XXX    Local     SS1  named_signal_prc  "             Vzc_CSA2N" from core  3  
+         202  XXX    Local     SS1  named_signal_prc  "             Vzb_CSA2N" from core  3  
+         203  XXX    Local     SS1  named_signal_prc  "           Ref_a_CSA2P" from core  3  
+         204  XXX    Local     SS1  named_signal_prc  "           Ref_b_CSA2P" from core  3  
+         205  XXX    Local     SS1  named_signal_prc  "           Ref_c_CSA2P" from core  3  
+         206  XXX    Local     SS1  named_signal_prc  "           Ref_a_CSA2N" from core  3  
+         207  XXX    Local     SS1  named_signal_prc  "           Ref_b_CSA2N" from core  3  
+         208  XXX    Local     SS1  named_signal_prc  "           Ref_c_CSA2N" from core  3  
+         209  XXX    Local     SS1  named_signal_prc  "        Ref_a_CSA2PPOS" from core  3  
+         210  XXX    Local     SS1  named_signal_prc  "        Ref_b_CSA2PPOS" from core  3  
+         211  XXX    Local     SS1  named_signal_prc  "        Ref_c_CSA2PPOS" from core  3  
+         212  XXX    Local     SS1  named_signal_prc  "        Ref_a_CSA2NPOS" from core  3  
+         213  XXX    Local     SS1  named_signal_prc  "        Ref_b_CSA2NPOS" from core  3  
+         214  XXX    Local     SS1  named_signal_prc  "        Ref_c_CSA2NPOS" from core  3  
+         215  XXX    Local     SS1  named_signal_prc  "        Ref_a_CSA2PNEG" from core  3  
+         216  XXX    Local     SS1  named_signal_prc  "        Ref_b_CSA2PNEG" from core  3  
+         217  XXX    Local     SS1  named_signal_prc  "        Ref_c_CSA2PNEG" from core  3  
+         218  XXX    Local     SS1  named_signal_prc  "        Ref_a_CSA2NNEG" from core  3  
+         219  XXX    Local     SS1  named_signal_prc  "        Ref_b_CSA2NNEG" from core  3  
+         220  XXX    Local     SS1  named_signal_prc  "        Ref_c_CSA2NNEG" from core  3  
+         221  XXX    Local     SS1  named_signal_prc  "          WT1VdPURef1x" from core  3  
+         222  XXX    Local     SS1  named_signal_prc  "          WT1VqPURef1x" from core  3  
+         223  XXX    Local     SS1  named_signal_prc  "          WT1IqPURef1x" from core  3  
+         224  XXX    Local     SS1  named_signal_prc  "          WT1IdPURef1x" from core  3  
+         225  XXX    Local     SS1  named_signal_prc  "         WT1IdSTPURefx" from core  3  
+         226  XXX    Local     SS1  named_signal_prc  "         WT1VdSTPURefx" from core  3  
+         227  XXX    Local     SS1  named_signal_prc  "         WT1VqSTPURefx" from core  3  
+         228  XXX    Local     SS1  named_signal_prc  "         WT1IqSTPURefx" from core  3  
+         229  XXX    Local     SS1  named_signal_prc  "            WT1Mindex2" from core  3  
+         230  XXX    Local     SS1  named_signal_prc  "            WT1Mindex1" from core  3  
+         231  XXX    Local     SS1  named_signal_prc  "           iqref_CSA2P" from core  3  
+         232  XXX    Local     SS1  named_signal_prc  "          IDREFp_CSA2P" from core  3  
+         233  XXX    Local     SS1  named_signal_prc  "           iqref_CSA2N" from core  3  
+         234  XXX    Local     SS1  named_signal_prc  "          IDREFp_CSA2N" from core  3  
+         235  XXX    Local     SS1  named_signal_prc  "                WT1MAG" from core  3  
+         236  XXX    Local     SS1  named_signal_prc  "              WT1PHASE" from core  3  
+         237  XXX    Local     SS1  named_signal_prc  "         WT1dThetaDeg1" from core  3  
+         238  XXX    Local     SS1  named_signal_prc  "              WT1RTrpm" from core  3  
+         239  XXX    Local     SS1  named_signal_prc  "            WT1negVdcN" from core  3  
+         240  XXX    Local     SS1  named_signal_prc  "               PdcA2A1" from core  3  
+         241  XXX    Local     SS1  named_signal_prc  "            Pdccable0a" from core  3  
+         242  XXX    Local     SS1  named_signal_prc  "              PdcPA2A1" from core  3  
+         243  XXX    Local     SS1  named_signal_prc  "              PdcNA2A1" from core  3  
+         244  XXX    Local     SS1  named_signal_prc  "             WT1PHASEA" from core  3  
+         245  XXX    Local     SS1  named_signal_prc  "          VdcBb__CSA2P" from core  3  
+         246  XXX    Local     SS1  named_signal_prc  "                P_CSA2" from core  3  
+         247  XXX    Local     SS1  named_signal_prc  "             WT1PHASEB" from core  3  
+         248  XXX    Local     SS1  named_signal_prc  "             WT1PHASEC" from core  3  
+         249  XXX    Local     SS1  named_signal_prc  "             Iza_CSA2P" from core  3  
+         250  XXX    Local     SS1  named_signal_prc  "             Iza_CSA2N" from core  3  
+         251  XXX    Local     SS1  named_signal_prc  "             Izb_CSA2P" from core  3  
+         252  XXX    Local     SS1  named_signal_prc  "             Izb_CSA2N" from core  3  
+         253  XXX    Local     SS1  named_signal_prc  "             Izc_CSA2P" from core  3  
+         254  XXX    Local     SS1  named_signal_prc  "             Izc_CSA2N" from core  3  
+         255  XXX    Local     SS1  named_signal_prc  "            Vb_CSA2Nac" from core  3  
+         256  XXX    Local     SS1  named_signal_prc  "        thPLL_CSA2PNEG" from core  3  
+         257  XXX    Local     SS1  named_signal_prc  "        thPLL_CSA2NNEG" from core  3  
+         258  XXX    Local     SS1  named_signal_prc  "          Theta5_CSA2N" from core  3  
+         259  XXX    Local     SS1  named_signal_prc  "          Theta5_CSA2P" from core  3  
+         260  XXX    Local     SS1  named_signal_prc  "         WT1dThetaDeg2" from core  3  
+         261  XXX    Local     SS1  named_signal_prc  "          VDREF5_CSA2N" from core  3  
+         262  XXX    Local     SS1  named_signal_prc  "          VQREF5_CSA2N" from core  3  
+         263  XXX    Local     SS1  named_signal_prc  "             WT1Icon1A" from core  3  
+         264  XXX    Local     SS1  named_signal_prc  "             WT1Icon1B" from core  3  
+         265  XXX    Local     SS1  named_signal_prc  "             WT1Icon1C" from core  3  
+         266  XXX    Local     SS1  named_signal_prc  "          VDREF5_CSA2P" from core  3  
+         267  XXX    Local     SS1  named_signal_prc  "          VQREF5_CSA2P" from core  3  
+         268  XXX    Local     SS1  named_signal_prc  "                 QCSA1" from core  3  
+         269  XXX    Local     SS1  named_signal_prc  "                 QCSA2" from core  3  
+         270  XXX    Local     SS1  named_signal_prc  "          VDCpuN_CSA2P" from core  3  
+         271  XXX    Local     SS1  named_signal_prc  "         IqrefMn_CSA2N" from core  3  
+         272  XXX    Local     SS1  named_signal_prc  "         IdrefMn_CSA2N" from core  3  
+         273  XXX    Local     SS1  named_signal_prc  "        IqrefMin_CSA2P" from core  3  
+         274  XXX    Local     SS1  named_signal_prc  "        IdrefMin_CSA2P" from core  3  
+         275  XXX    Local     SS1  named_signal_prc  "              StartPI1" from core  3  
+         276  XXX    Local     SS1  named_signal_prc  "              StartPI2" from core  3  
+         277  XXX    Local     SS1  named_signal_prc  "               VDCBINV" from core  3  
+         278  XXX    Local     SS1  named_signal_prc  "              Scal1Cal" from core  3  
+         279  XXX    Local     SS1  named_signal_prc  "           out1t_CSA2P" from core  3  
+         280  XXX    Local     SS1  named_signal_prc  "           out2t_CSA2P" from core  3  
+         281  XXX    Local     SS1  named_signal_prc  "        outpi1_t_CSA2P" from core  3  
+         282  XXX    Local     SS1  named_signal_prc  "        outpi2_t_CSA2P" from core  3  
+         283  XXX    Local     SS1  named_signal_prc  "         IDREFdc_CSA2P" from core  3  
+         284  XXX    Local     SS1  named_signal_prc  "           PIpwr_CSA2P" from core  3  
+         285  XXX    Local     SS1  named_signal_prc  "          IQREFq_CSA2P" from core  3  
+         286  XXX    Local     SS1  named_signal_prc  "        IQREFvac_CSA2P" from core  3  
+         287  XXX    Local     SS1  named_signal_prc  "          IdVac5_CSA2P" from core  3  
+         288  XXX    Local     SS1  named_signal_prc  "     outpi1_t_CSA2PPOS" from core  3  
+         289  XXX    Local     SS1  named_signal_prc  "     outpi1_t_CSA2PNEG" from core  3  
+         290  XXX    Local     SS1  named_signal_prc  "     outpi2_t_CSA2PNEG" from core  3  
+         291  XXX    Local     SS1  named_signal_prc  "     outpi2_t_CSA2PPOS" from core  3  
+         292  XXX    Local     SS1  named_signal_prc  "           out1t_CSA2N" from core  3  
+         293  XXX    Local     SS1  named_signal_prc  "           out2t_CSA2N" from core  3  
+         294  XXX    Local     SS1  named_signal_prc  "          opi1_t_CSA2N" from core  3  
+         295  XXX    Local     SS1  named_signal_prc  "          opi2_t_CSA2N" from core  3  
+         296  XXX    Local     SS1  named_signal_prc  "         IDREFdc_CSA2N" from core  3  
+         297  XXX    Local     SS1  named_signal_prc  "           PIpwr_CSA2N" from core  3  
+         298  XXX    Local     SS1  named_signal_prc  "          IQREFq_CSA2N" from core  3  
+         299  XXX    Local     SS1  named_signal_prc  "         IQREFac_CSA2N" from core  3  
+         300  XXX    Local     SS1  named_signal_prc  "          IdVac5_CSA2N" from core  3  
+         301  XXX    Local     SS1  named_signal_prc  "     outpi1_t_CSA2NPOS" from core  3  
+         302  XXX    Local     SS1  named_signal_prc  "     outpi1_t_CSA2NNEG" from core  3  
+         303  XXX    Local     SS1  named_signal_prc  "     outpi2_t_CSA2NNEG" from core  3  
+         304  XXX    Local     SS1  named_signal_prc  "     outpi2_t_CSA2NPOS" from core  3  
+         305  XXX    Local     SS1  named_signal_prc  "               WT1Loss" from core  3  
+         306  XXX    Local     SS1  named_signal_prc  "               m_CSA2P" from core  3  
+         307  XXX    Local     SS1  named_signal_prc  "               m_CSA2N" from core  3  
+         308  XXX    Local     SS1  named_signal_prc  "          NORDPA_CSA2P" from core  3  
+         309  XXX    Local     SS1  named_signal_prc  "          NORDNA_CSA2P" from core  3  
+         310  XXX    Local     SS1  named_signal_prc  "          NORDPB_CSA2P" from core  3  
+         311  XXX    Local     SS1  named_signal_prc  "          NORDNB_CSA2P" from core  3  
+         312  XXX    Local     SS1  named_signal_prc  "          NORDPC_CSA2P" from core  3  
+         313  XXX    Local     SS1  named_signal_prc  "          NORDNC_CSA2P" from core  3  
+         314  XXX    Local     SS1  named_signal_prc  "          NORDPA_CSA2N" from core  3  
+         315  XXX    Local     SS1  named_signal_prc  "          NORDNA_CSA2N" from core  3  
+         316  XXX    Local     SS1  named_signal_prc  "          NORDPB_CSA2N" from core  3  
+         317  XXX    Local     SS1  named_signal_prc  "          NORDNB_CSA2N" from core  3  
+         318  XXX    Local     SS1  named_signal_prc  "          NORDPC_CSA2N" from core  3  
+         319  XXX    Local     SS1  named_signal_prc  "          NORDNC_CSA2N" from core  3  
+         320  XXX    Local     SS1  named_signal_prc  "            WT1WindSPD" from core  3  
+         321  XXX    Local     SS1  named_signal_prc  "           WT12WindSPD" from core  3  
+         322  XXX    Local     SS1  named_signal_prc  "               Deblock" from core  3  
+         323  XXX    Local     SS1  named_signal_prc  "               MainBRK" from core  3  
+         324  XXX    Local     SS1  named_signal_prc  "           rst1t_CSA2P" from core  3  
+         325  XXX    Local     SS1  named_signal_prc  "           rst1t_CSA2N" from core  3  
+         326  XXX    Local     SS1  named_signal_prc  "           rst2t_CSA2P" from core  3  
+         327  XXX    Local     SS1  named_signal_prc  "           rst2t_CSA2N" from core  3  
+         328  XXX    Local     SS1  named_signal_prc  "                 DBlk2" from core  3  
+         329  XXX    Local     SS1  named_signal_prc  "           G1DBLK_CSA2" from core  3  
+         330  XXX    Local     SS1  named_signal_prc  "                LOCKFR" from core  3  
+         331  XXX    Local     SS1  named_signal_prc  "               MainBrk" from core  3  
+         332  XXX    Local     SS1  named_signal_prc  "               ACFLTpg" from core  3  
+         333  XXX    Local     SS1  named_signal_prc  "         FTLMODE_CSA2N" from core  3  
+         334  XXX    Local     SS1  named_signal_prc  "         FTLMODE_CSA2P" from core  3  
+         335  XXX    Local     SS1  named_signal_prc  "             WT1SPDRED" from core  3  
+         336  XXX    Local     SS1  named_signal_prc  "            PdcPosA2A1" from core  3  
+         337  XXX    Local     SS1  named_signal_prc  "            PdcNegA2A1" from core  3  
+         338  XXX    Local     SS1  named_signal_prc  "            SP1TOMEGA2" from core  3  
+         339  XXX    Local     SS1  named_signal_prc  "         PdcPoscabel0a" from core  3  
+         340  XXX    Local     SS1  named_signal_prc  "         PdcNegcabel0a" from core  3  
+         341  XXX    Local     SS1  named_signal_prc  "          SP1VdcPreCh1" from core  3  
+         342  XXX    Local     SS1  named_signal_prc  "               WT1Kopt" from core  3  
+         343  XXX    Local     SS1  named_signal_prc  "                BRKaux" from core  3  
+         344  XXX    Local     SS1  named_signal_prc  "          IASECD_CSA2P" from core  3  
+         345  XXX    Local     SS1  named_signal_prc  "          IBSECD_CSA2P" from core  3  
+         346  XXX    Local     SS1  named_signal_prc  "          ICSECD_CSA2P" from core  3  
+         347  XXX    Local     SS1  named_signal_prc  "         VacErr5_CSA2N" from core  3  
+         348  XXX    Local     SS1  named_signal_prc  "          WT1ErrVacPU1" from core  3  
+         349  XXX    Local     SS1  named_signal_prc  "         VacErr5_CSA2P" from core  3  
+         350  XXX    Local     SS1  named_signal_prc  "          IASECD_CSA2N" from core  3  
+         351  XXX    Local     SS1  named_signal_prc  "          IBSECD_CSA2N" from core  3  
+         352  XXX    Local     SS1  named_signal_prc  "          ICSECD_CSA2N" from core  3  
+         353  XXX    Local     SS1  named_signal_prc  "           WF1FltCtrl1" from core  3  
+         354  XXX    Local     SS1  named_signal_prc  "             Vzd_CSA2P" from core  3  
+         355  XXX    Local     SS1  named_signal_prc  "             Vzd_CSA2N" from core  3  
+         356  XXX    Local     SS1  named_signal_prc  "               DBlkWD1" from core  3  
+         357  XXX    Local     SS1  named_signal_prc  "               DBlkWD2" from core  3  
+         358  XXX    Local     SS1  named_signal_prc  "             Vzq_CSA2P" from core  3  
+         359  XXX    Local     SS1  named_signal_prc  "             Vzq_CSA2N" from core  3  
+         360  XXX    Local     SS1  named_signal_prc  "                WT1Fst" from core  3  
+         361  XXX    Local     SS1  named_signal_prc  "          BRKaux_CSA2P" from core  3  
+         362  XXX    Local     SS1  named_signal_prc  "          vd_isl_CSA2N" from core  3  
+         363  XXX    Local     SS1  named_signal_prc  "            BRKm_CSA2P" from core  3  
+         364  XXX    Local     SS1  named_signal_prc  "          vd_isl_CSA2P" from core  3  
+         365  XXX    Local     SS1  named_signal_prc  "          BRKaux_CSA2N" from core  3  
+         366  XXX    Local     SS1  named_signal_prc  "            BRKm_CSA2N" from core  3  
+         367  XXX    Local     SS1  named_signal_prc  "          Ref_aH_CSA2P" from core  3  
+         368  XXX    Local     SS1  named_signal_prc  "          Ref_aH_CSA2N" from core  3  
+         369  XXX    Local     SS1  named_signal_prc  "            SP1TOMEGA1" from core  3  
+         370  XXX    Local     SS1  named_signal_prc  "       Ref_aH_CSA2PPOS" from core  3  
+         371  XXX    Local     SS1  named_signal_prc  "       Ref_aH_CSA2NPOS" from core  3  
+         372  XXX    Local     SS1  named_signal_prc  "       Ref_aH_CSA2PNEG" from core  3  
+         373  XXX    Local     SS1  named_signal_prc  "       Ref_aH_CSA2NNEG" from core  3  
+         374  XXX    Local     SS1  named_signal_prc  "                 SnbTc" from core  3  
+         375  XXX    Local     SS1  named_signal_prc  "              ResetPI1" from core  3  
+         376  XXX    Local     SS1  named_signal_prc  "              Deblockx" from core  3  
+         377  XXX    Local     SS1  named_signal_prc  "              PreChge1" from core  3  
+         378  XXX    Local     SS1  named_signal_prc  "           ACBRK_CSA2P" from core  3  
+         379  XXX    Local     SS1  named_signal_prc  "           ACBRK_CSA2N" from core  3  
+         380  XXX    Local     SS1  named_signal_prc  "             Rst5_CSA2" from core  3  
+         381  XXX    Local     SS1  named_signal_prc  "              ResetPI2" from core  3  
+         382  XXX    Local     SS1  named_signal_prc  "             Rst_CSA2P" from core  3  
+         383  XXX    Local     SS1  named_signal_prc  "             Rst_CSA2N" from core  3  
+         384  XXX    Local     SS1  named_signal_prc  "            N1_CSA2Ppu" from core  3  
+         385  XXX    Local     SS1  named_signal_prc  "            N2_CSA2Ppu" from core  3  
+         386  XXX    Local     SS1  named_signal_prc  "            N3_CSA2Ppu" from core  3  
+         387  XXX    Local     SS1  named_signal_prc  "           IAP_CSA2Ppu" from core  3  
+         388  XXX    Local     SS1  named_signal_prc  "           IBP_CSA2Ppu" from core  3  
+         389  XXX    Local     SS1  named_signal_prc  "           ICP_CSA2Ppu" from core  3  
+         390  XXX    Local     SS1  named_signal_prc  "           IaT_CSA2Ppu" from core  3  
+         391  XXX    Local     SS1  named_signal_prc  "           IbT_CSA2Ppu" from core  3  
+         392  XXX    Local     SS1  named_signal_prc  "           IcT_CSA2Ppu" from core  3  
+         393  XXX    Local     SS1  named_signal_prc  "           IAP_CSA2Npu" from core  3  
+         394  XXX    Local     SS1  named_signal_prc  "           IBP_CSA2Npu" from core  3  
+         395  XXX    Local     SS1  named_signal_prc  "           ICP_CSA2Npu" from core  3  
+         396  XXX    Local     SS1  named_signal_prc  "           IaT_CSA2Npu" from core  3  
+         397  XXX    Local     SS1  named_signal_prc  "           IbT_CSA2Npu" from core  3  
+         398  XXX    Local     SS1  named_signal_prc  "           IcT_CSA2Npu" from core  3  
+         399  XXX    Local     SS1  named_signal_prc  "          VDCpuP_CSA2P" from core  3  
+         400  XXX    Local     SS1  named_signal_prc  "        VACmagpu_CSA2P" from core  3  
+         401  XXX    Local     SS1  named_signal_prc  "             Ppu_CSA2P" from core  3  
+         402  XXX    Local     SS1  named_signal_prc  "             Qpu_CSA2P" from core  3  
+         403  XXX    Local     SS1  named_signal_prc  "             Ppu_CSA2N" from core  3  
+         404  XXX    Local     SS1  named_signal_prc  "             Qpu_CSA2N" from core  3  
+         405  XXX    Local     SS1  named_signal_prc  "        thetaVCO_CSA2N" from core  3  
+         406  XXX    Local     SS1  named_signal_prc  "        thetaVCO_CSA2P" from core  3  
+         407  XXX    Local     SS1  named_signal_prc  "             RampVgrid" from core  3  
+         408  XXX    Local     SS1  named_signal_prc  "            RampPreVdc" from core  3  
+         409  XXX    Local     SS1  named_signal_prc  "          WT1VdcPURef1" from core  3  
+         410  XXX    Local     SS1  named_signal_prc  "           WT1QstPURef" from core  3  
+         411  XXX    Local     SS1  named_signal_prc  "            WT1TePURef" from core  3  
+         412  XXX    Local     SS1  named_signal_prc  "          WT1IdPUfilt1" from core  3  
+         413  XXX    Local     SS1  named_signal_prc  "         WT1VgdPUfilt1" from core  3  
+         414  XXX    Local     SS1  named_signal_prc  "              Scale12x" from core  3  
+         415  XXX    Local     SS1  named_signal_prc  "               Scale1x" from core  3  
+         416  XXX    Local     SS1  named_signal_prc  "          WT1IqPUfilt1" from core  3  
+         417  XXX    Local     SS1  named_signal_prc  "         WT1VgqPUfilt1" from core  3  
+         418  XXX    Local     SS1  named_signal_prc  "          WT1Pcon1Filt" from core  3  
+         419  XXX    Local     SS1  named_signal_prc  "          WT1Qcon1Filt" from core  3  
+         420  XXX    Local     SS1  named_signal_prc  "              WT1Vwind" from core  3  
+         421  XXX    Local     SS1  named_signal_prc  "           WT1PitchDeg" from core  3  
+         422  XXX    Local     SS1  named_signal_prc  "             WF1PGfilt" from core  3  
+         423  XXX    Local     SS1  named_signal_prc  "             WF1QGfilt" from core  3  
+         424  XXX    Local     SS1  named_signal_prc  "            PMMC_CSA2P" from core  3  
+         425  XXX    Local     SS1  named_signal_prc  "            QMMC_CSA2P" from core  3  
+         426  XXX    Local     SS1  named_signal_prc  "           WT1TePUfilt" from core  3  
+         427  XXX    Local     SS1  named_signal_prc  "           WT1PpuFilt1" from core  3  
+         428  XXX    Local     SS1  named_signal_prc  "          WT1PstPUfilt" from core  3  
+         429  XXX    Local     SS1  named_signal_prc  "           WT1QpuFilt1" from core  3  
+         430  XXX    Local     SS1  named_signal_prc  "          WT1QstPUfilt" from core  3  
+         431  XXX    Local     SS1  named_signal_prc  "          WT1PmachFilt" from core  3  
+         432  XXX    Local     SS1  named_signal_prc  "          WT1QmachFilt" from core  3  
+         433  XXX    Local     SS1  named_signal_prc  "           WT1PgenFilt" from core  3  
+         434  XXX    Local     SS1  named_signal_prc  "         WT1IdSTPUfilt" from core  3  
+         435  XXX    Local     SS1  named_signal_prc  "         WT1IqSTPUfilt" from core  3  
+         436  XXX    Local     SS1  named_signal_prc  "            PMMC_CSA2N" from core  3  
+         437  XXX    Local     SS1  named_signal_prc  "            QMMC_CSA2N" from core  3  
+         438  XXX    Local     SS1  named_signal_prc  "         WT1VdcPUfilt1" from core  3  
+         439  XXX    Local     SS1  named_signal_prc  "         WT1VacPUfilt1" from core  3  
+         440  XXX    Local     SS1  named_signal_prc  "           WF1Ptr1Filt" from core  3  
+         441  XXX    Local     SS1  named_signal_prc  "           WF1Qtr1Filt" from core  3  
+         442  XXX    Local     SS1  named_signal_prc  "           WT1PturFilt" from core  3  
+         443  XXX    Local     SS1  named_signal_prc  "          VRMS_CSA2Ppu" from core  3  
+         444  XXX    Local     SS1  named_signal_prc  "            WT1dTheta2" from core  3  
+         445  XXX    Local     SS1  named_signal_prc  "            WT1dTheta1" from core  3  
+         446  XXX    Local     SS1  named_signal_prc  "              WT1Imag1" from core  3  
+         447  XXX    Local     SS1  named_signal_prc  "           WT1IdPURef1" from core  3  
+         448  XXX    Local     SS1  named_signal_prc  "           WT1IqPURef1" from core  3  
+         449  XXX    Local     SS1  named_signal_prc  "          WT1IdSTPURef" from core  3  
+         450  XXX    Local     SS1  named_signal_prc  "          WT1IqSTPURef" from core  3  
+         451  XXX    Local     SS1  named_signal_prc  "           angle_CSA2P" from core  3  
+         452  XXX    Local     SS1  named_signal_prc  "           angle_CSA2N" from core  3  
+         453  XXX    Local     SS1  named_signal_prc  "            Imag_CSA2P" from core  3  
+         454  XXX    Local     SS1  named_signal_prc  "             rad_CSA2P" from core  3  
+         455  XXX    Local     SS1  named_signal_prc  "            Imag_CSA2N" from core  3  
+         456  XXX    Local     SS1  named_signal_prc  "             rad_CSA2N" from core  3  
+         457  XXX    Local     SS1  named_signal_prc  "           IDREF_CSA2P" from core  3  
+         458  XXX    Local     SS1  named_signal_prc  "           IQREF_CSA2P" from core  3  
+         459  XXX    Local     SS1  named_signal_prc  "           IDREF_CSA2N" from core  3  
+         460  XXX    Local     SS1  named_signal_prc  "           IQREF_CSA2N" from core  3  
+         461  XXX    Local     SS1  named_signal_prc  "IT_@DC_fault_control_5" from core  3  
+         462  XXX    Local     SS1  named_signal_prc  "IT_@DC_fault_control_6" from core  3  
+         463  XXX    Local     SS1  named_signal_prc  "         WT1IdSTPURefy" from core  3  
+         464  XXX    Local     SS1  named_signal_prc  "           idref_CSA2P" from core  3  
+         465  XXX    Local     SS1  named_signal_prc  "           idref_CSA2N" from core  3  
+         466  XXX    Local     SS1  named_signal_prc  "           Th_CSA2Psec" from core  3  
+         467  XXX    Local     SS1  named_signal_prc  "          Th_CSA2PsecB" from core  3  
+         468  XXX    Local     SS1  named_signal_prc  "         IqrefMx_CSA2N" from core  3  
+         469  XXX    Local     SS1  named_signal_prc  "         IdrefMx_CSA2N" from core  3  
+         470  XXX    Local     SS1  named_signal_prc  "        IqrefMax_CSA2P" from core  3  
+         471  XXX    Local     SS1  named_signal_prc  "        IdrefMax_CSA2P" from core  3  
+         472  XXX    Local     SS1  named_signal_prc  "              Vsa_CSA1" from core  3  
+         473  XXX    Local     SS1  named_signal_prc  "              Vsb_CSA1" from core  3  
+         474  XXX    Local     SS1  named_signal_prc  "              Vsc_CSA1" from core  3  
+         475  XXX    Local     SS1  named_signal_prc  "                GP1VsA" from core  3  
+         476  XXX    Local     SS1  named_signal_prc  "                GP1VsB" from core  3  
+         477  XXX    Local     SS1  named_signal_prc  "                GP1VsC" from core  3  
+         478  XXX    Local     SS1  named_signal_prc  "            Pref_CSA2P" from core  3  
+         479  XXX    Local     SS1  named_signal_prc  "               QPURef1" from core  3  
+         480  XXX    Local     SS1  named_signal_prc  "            Qref_CSA2P" from core  3  
+         481  XXX    Local     SS1  named_signal_prc  "              QstPURef" from core  3  
+         482  XXX    Local     SS1  named_signal_prc  "                Scale1" from core  3  
+         483  XXX    Local     SS1  named_signal_prc  "               Scale12" from core  3  
+         484  XXX    Local     SS1  named_signal_prc  "                SPDLim" from core  3  
+         485  XXX    Local     SS1  named_signal_prc  "          VACref_CSA2P" from core  3  
+         486  XXX    Local     SS1  named_signal_prc  "             VacPURef1" from core  3  
+         487  XXX    Local     SS1  named_signal_prc  "              VdcPURef" from core  3  
+         488  XXX    Local     SS1  named_signal_prc  "                 DBlk1" from core  3  
+         489  XXX    Local     SS1  named_signal_prc  "              WT1Chop1" from core  3  
+         490  XXX    Local     SS1  named_signal_prc  "            WT1IstatAB" from core  3  
+         491  XXX    Local     SS1  named_signal_prc  "            WT1VstatAB" from core  3  
+         492  XXX    Local     SS1  named_signal_prc  "            WT1Icon1AB" from core  3  
+         493  XXX    Local     SS1  named_signal_prc  "            WT1VdcBus1" from core  3  
+         494  XXX    Local     SS1  named_signal_prc  "          WT1thetaCon2" from core  3  
+         495  XXX    Local     SS1  named_signal_prc  "         VCONBPU_CSA2P" from core  3  
+         496  XXX    Local     SS1  named_signal_prc  "            WT1IstatBC" from core  3  
+         497  XXX    Local     SS1  named_signal_prc  "            WT1VstatBC" from core  3  
+         498  XXX    Local     SS1  named_signal_prc  "            WT1Icon1BC" from core  3  
+         499  XXX    Local     SS1  named_signal_prc  "            WT1IstatCA" from core  3  
+         500  XXX    Local     SS1  named_signal_prc  "            WT1VstatCA" from core  3  
+         501  XXX    Local     SS1  named_signal_prc  "            WT1Icon1CA" from core  3  
+         502  XXX    Local     SS1  named_signal_prc  "          WT1ErrIdSTPU" from core  3  
+         503  XXX    Local     SS1  named_signal_prc  "           WT1ErrIdPU1" from core  3  
+         504  XXX    Local     SS1  named_signal_prc  "           WT1ErrIqPU1" from core  3  
+         505  XXX    Local     SS1  named_signal_prc  "          WT1ErrIqSTPU" from core  3  
+         506  XXX    Local     SS1  named_signal_prc  "           WT1Vcon2TAB" from core  3  
+         507  XXX    Local     SS1  named_signal_prc  "                P_CSA1" from core  3  
+         508  XXX    Local     SS1  named_signal_prc  "           iderr_CSA2N" from core  3  
+         509  XXX    Local     SS1  named_signal_prc  "           iqerr_CSA2N" from core  3  
+         510  XXX    Local     SS1  named_signal_prc  "         PmeasBb_CSA2P" from core  3  
+         511  XXX    Local     SS1  named_signal_prc  "            in1t_CSA2P" from core  3  
+         512  XXX    Local     SS1  named_signal_prc  "            in1t_CSA2N" from core  3  
+         513  XXX    Local     SS1  named_signal_prc  "           iderr_CSA2P" from core  3  
+         514  XXX    Local     SS1  named_signal_prc  "           iqerr_CSA2P" from core  3  
+         515  XXX    Local     SS1  named_signal_prc  "          VdcLINK_CSA1" from core  3  
+         516  XXX    Local     SS1  named_signal_prc  "          VdcLINK_CSA2" from core  3  
+         517  XXX    Local     SS1  named_signal_prc  "          WT1ErrVdcPU1" from core  3  
+         518  XXX    Local     SS1  named_signal_prc  "            in2t_CSA2P" from core  3  
+         519  XXX    Local     SS1  named_signal_prc  "            in2t_CSA2N" from core  3  
+         520  XXX    Local     SS1  named_signal_prc  "           WT1ErrQstPU" from core  3  
+         521  XXX    Local     SS1  named_signal_prc  "            WT1ErrTePU" from core  3  
+         522  XXX    Local     SS1  named_signal_prc  "          WT1VdSTPURef" from core  3  
+         523  XXX    Local     SS1  named_signal_prc  "           WT1VdPURef1" from core  3  
+         524  XXX    Local     SS1  named_signal_prc  "           WT1VqPURef1" from core  3  
+         525  XXX    Local     SS1  named_signal_prc  "          WT1VqSTPURef" from core  3  
+         526  XXX    Local     SS1  named_signal_prc  "          VD_CSA2PREFB" from core  3  
+         527  XXX    Local     SS1  named_signal_prc  "          VQ_CSA2PREFB" from core  3  
+         528  XXX    Local     SS1  named_signal_prc  "          VacErr_CSA2P" from core  3  
+         529  XXX    Local     SS1  named_signal_prc  "         WF1Itr1SecPhA" from core  3  
+         530  XXX    Local     SS1  named_signal_prc  "         WF1Itr1SecPhB" from core  3  
+         531  XXX    Local     SS1  named_signal_prc  "         WF1Itr1SecPhC" from core  3  
+         532  XXX    Local     SS1  named_signal_prc  "           VD_CSA2PREF" from core  3  
+         533  XXX    Local     SS1  named_signal_prc  "           VQ_CSA2PREF" from core  3  
+         534  XXX    Local     SS1  named_signal_prc  "          VacErr_CSA2N" from core  3  
+         535  XXX    Local     SS1  named_signal_prc  "          WT1thetaCon1" from core  3  
+         536  XXX    Local     SS1  named_signal_prc  "            WT1ModwvA2" from core  3  
+         537  XXX    Local     SS1  named_signal_prc  "            WT1ModwvA1" from core  3  
+         538  XXX    Local     SS1  named_signal_prc  "            WT1ModwvB2" from core  3  
+         539  XXX    Local     SS1  named_signal_prc  "            WT1ModwvB1" from core  3  
+         540  XXX    Local     SS1  named_signal_prc  "            WT1ModwvC2" from core  3  
+         541  XXX    Local     SS1  named_signal_prc  "            WT1ModwvC1" from core  3  
+         542  XXX    Local     SS1  named_signal_prc  "        iderr_CSA2PPOS" from core  3  
+         543  XXX    Local     SS1  named_signal_prc  "        iderr_CSA2NPOS" from core  3  
+         544  XXX    Local     SS1  named_signal_prc  "        iqerr_CSA2PPOS" from core  3  
+         545  XXX    Local     SS1  named_signal_prc  "        iqerr_CSA2NPOS" from core  3  
+         546  XXX    Local     SS1  named_signal_prc  "            Perr_CSA2P" from core  3  
+         547  XXX    Local     SS1  named_signal_prc  "            qerr_CSA2P" from core  3  
+         548  XXX    Local     SS1  named_signal_prc  "        VD_CSA2PREFPOS" from core  3  
+         549  XXX    Local     SS1  named_signal_prc  "        VD_CSA2NREFPOS" from core  3  
+         550  XXX    Local     SS1  named_signal_prc  "        VQ_CSA2PREFPOS" from core  3  
+         551  XXX    Local     SS1  named_signal_prc  "        VQ_CSA2NREFPOS" from core  3  
+         552  XXX    Local     SS1  named_signal_prc  "            Perr_CSA2N" from core  3  
+         553  XXX    Local     SS1  named_signal_prc  "          VDCerr_CSA2P" from core  3  
+         554  XXX    Local     SS1  named_signal_prc  "            qerr_CSA2N" from core  3  
+         555  XXX    Local     SS1  named_signal_prc  "          VDCerr_CSA2N" from core  3  
+         556  XXX    Local     SS1  named_signal_prc  "            WT1Vcon1AB" from core  3  
+         557  XXX    Local     SS1  named_signal_prc  "            WT1Vcon1BC" from core  3  
+         558  XXX    Local     SS1  named_signal_prc  "            WT1Vcon1CA" from core  3  
+         559  XXX    Local     SS1  named_signal_prc  "            wLpu_CSA2P" from core  3  
+         560  XXX    Local     SS1  named_signal_prc  "            wLpu_CSA2N" from core  3  
+         561  XXX    Local     SS1  named_signal_prc  "        iderr_CSA2PNEG" from core  3  
+         562  XXX    Local     SS1  named_signal_prc  "        iderr_CSA2NNEG" from core  3  
+         563  XXX    Local     SS1  named_signal_prc  "           WT1Vcon1TAB" from core  3  
+         564  XXX    Local     SS1  named_signal_prc  "        iqerr_CSA2PNEG" from core  3  
+         565  XXX    Local     SS1  named_signal_prc  "        iqerr_CSA2NNEG" from core  3  
+         566  XXX    Local     SS1  named_signal_prc  "        VD_CSA2PREFNEG" from core  3  
+         567  XXX    Local     SS1  named_signal_prc  "        VD_CSA2NREFNEG" from core  3  
+         568  XXX    Local     SS1  named_signal_prc  "        VQ_CSA2PREFNEG" from core  3  
+         569  XXX    Local     SS1  named_signal_prc  "        VQ_CSA2NREFNEG" from core  3  
+         570  XXX    Local     SS1  named_signal_prc  "         VCONAPU_CSA2P" from core  3  
+         571  XXX    Local     SS1  named_signal_prc  "         VCONAPU_CSA2N" from core  3  
+         572  XXX    Local     SS1  named_signal_prc  "         VCONBPU_CSA2N" from core  3  
+         573  XXX    Local     SS1  named_signal_prc  "         VCONCPU_CSA2N" from core  3  
+         574  XXX    Local     SS1  named_signal_prc  "         VCONCPU_CSA2P" from core  3  
+         575  XXX    Local     SS1  named_signal_prc  "     Ref_a_CSA2PPOSNEG" from core  3  
+         576  XXX    Local     SS1  named_signal_prc  "     Ref_a_CSA2NPOSNEG" from core  3  
+         577  XXX    Local     SS1  named_signal_prc  "     Ref_b_CSA2PPOSNEG" from core  3  
+         578  XXX    Local     SS1  named_signal_prc  "     Ref_b_CSA2NPOSNEG" from core  3  
+         579  XXX    Local     SS1  named_signal_prc  "     Ref_c_CSA2PPOSNEG" from core  3  
+         580  XXX    Local     SS1  named_signal_prc  "     Ref_c_CSA2NPOSNEG" from core  3  
+         581  XXX    Local     SS1  named_signal_prc  "    Ref_aH_CSA2PPOSNEG" from core  3  
+         582  XXX    Local     SS1  named_signal_prc  "    Ref_aH_CSA2NPOSNEG" from core  3  
+         583  XXX    Local     SS1  named_signal_prc  "        BAL_PN_CSA2Ppu" from core  3  
+         584  XXX    Local     SS1  named_signal_prc  "                 CLOSE" from core  3  
+         585  XXX    Local     SS1  named_signal_prc  "              Har3Ctrl" from core  3  
+         586  XXX    Local     SS1  named_signal_prc  "         idmode_CSA2Px" from core  3  
+         587  XXX    Local     SS1  named_signal_prc  "          Iqmode_CSA2P" from core  3  
+         588  XXX    Local     SS1  named_signal_prc  "       Islandmode_CSA2" from core  3  
+         589  XXX    Local     SS1  named_signal_prc  "               QstCtrl" from core  3  
+         590  XXX    Local     SS1  named_signal_prc  "                VacOrQ" from core  3  
+         591  XXX    Local     SS1  named_signal_prc  "                  TIME" from core  3  
+         592  XXX    Local     SS1  named_signal_prc  "             CLOSETIME" from core  3  
+         593  XXX    Local     SS1  named_signal_prc  "            WT1TmechPU" from core  3  
+         594  XXX    Local     SS1  named_signal_prc  "             WT1IaSTPU" from core  3  
+         595  XXX    Local     SS1  named_signal_prc  "              GP1Temp1" from core  3  
+         596  XXX    Local     SS1  named_signal_prc  "             WT1IbSTPU" from core  3  
+         597  XXX    Local     SS1  named_signal_prc  "             WT1IcSTPU" from core  3  
+         598  XXX    Local     SS1  named_signal_prc  "              pf_af_tr" from core  3  
+         599  XXX    Local     SS1  named_signal_prc  "          Qref_CSA2Ppu" from core  3  
+         600  XXX    Local     SS1  named_signal_prc  "          Pref_CSA2Ppu" from core  3  
+         601  XXX    Local     SS1  named_signal_prc  "             WT1VdcPU1" from core  3  
+         602  XXX    Local     SS1  named_signal_prc  "           izdpu_CSA2P" from core  3  
+         603  XXX    Local     SS1  named_signal_prc  "           izdpu_CSA2N" from core  3  
+         604  XXX    Local     SS1  named_signal_prc  "           izqpu_CSA2P" from core  3  
+         605  XXX    Local     SS1  named_signal_prc  "           izqpu_CSA2N" from core  3  
+         606  XXX    Local     SS1  named_signal_prc  "             WT1VabPU1" from core  3  
+         607  XXX    Local     SS1  named_signal_prc  "             WT1VbcPU1" from core  3  
+         608  XXX    Local     SS1  named_signal_prc  "             WT1VcaPU1" from core  3  
+         609  XXX    Local     SS1  named_signal_prc  "           Ibase_CSA2P" from core  3  
+         610  XXX    Local     SS1  named_signal_prc  "           Ibase_CSA2N" from core  3  
+         611  XXX    Local     SS1  named_signal_prc  "           Zbase_CSA2P" from core  3  
+         612  XXX    Local     SS1  named_signal_prc  "              WT1IaPU1" from core  3  
+         613  XXX    Local     SS1  named_signal_prc  "              WT1IbPU1" from core  3  
+         614  XXX    Local     SS1  named_signal_prc  "              WT1IcPU1" from core  3  
+         615  XXX    Local     SS1  named_signal_prc  "           Zbase_CSA2N" from core  3  
+         616  XXX    Local     SS1  named_signal_prc  "              Lg1Scale" from core  3  
+         617  XXX    Local     SS1  named_signal_prc  "              pf_bf_tr" from core  3  
+         618  XXX    Local     SS1  named_signal_prc  "              Rg1Scale" from core  3  
+         619  XXX    Local     SS1  named_signal_prc  "               Testing" from core  4  
+         620  XXX    Local     SS1  named_signal_prc  "         N1_CSA1PpuPOS" from core  4  
+         621  XXX    Local     SS1  named_signal_prc  "         N2_CSA1PpuPOS" from core  4  
+         622  XXX    Local     SS1  named_signal_prc  "         N3_CSA1PpuPOS" from core  4  
+         623  XXX    Local     SS1  named_signal_prc  "         N1_CSA1PpuNEG" from core  4  
+         624  XXX    Local     SS1  named_signal_prc  "         N2_CSA1PpuNEG" from core  4  
+         625  XXX    Local     SS1  named_signal_prc  "         N3_CSA1PpuNEG" from core  4  
+         626  XXX    Local     SS1  named_signal_prc  "         N1_CSA1NpuPOS" from core  4  
+         627  XXX    Local     SS1  named_signal_prc  "         N2_CSA1NpuPOS" from core  4  
+         628  XXX    Local     SS1  named_signal_prc  "         N3_CSA1NpuPOS" from core  4  
+         629  XXX    Local     SS1  named_signal_prc  "         N1_CSA1NpuNEG" from core  4  
+         630  XXX    Local     SS1  named_signal_prc  "         N2_CSA1NpuNEG" from core  4  
+         631  XXX    Local     SS1  named_signal_prc  "         N3_CSA1NpuNEG" from core  4  
+         632  XXX    Local     SS1  named_signal_prc  "        IaT_CSA1PpuPOS" from core  4  
+         633  XXX    Local     SS1  named_signal_prc  "        IbT_CSA1PpuPOS" from core  4  
+         634  XXX    Local     SS1  named_signal_prc  "        IcT_CSA1PpuPOS" from core  4  
+         635  XXX    Local     SS1  named_signal_prc  "        IaT_CSA1PpuNEG" from core  4  
+         636  XXX    Local     SS1  named_signal_prc  "        IbT_CSA1PpuNEG" from core  4  
+         637  XXX    Local     SS1  named_signal_prc  "        IcT_CSA1PpuNEG" from core  4  
+         638  XXX    Local     SS1  named_signal_prc  "        IaT_CSA1NpuPOS" from core  4  
+         639  XXX    Local     SS1  named_signal_prc  "        IbT_CSA1NpuPOS" from core  4  
+         640  XXX    Local     SS1  named_signal_prc  "        IcT_CSA1NpuPOS" from core  4  
+         641  XXX    Local     SS1  named_signal_prc  "        IaT_CSA1NpuNEG" from core  4  
+         642  XXX    Local     SS1  named_signal_prc  "        IbT_CSA1NpuNEG" from core  4  
+         643  XXX    Local     SS1  named_signal_prc  "        IcT_CSA1NpuNEG" from core  4  
+         644  XXX    Local     SS1  named_signal_prc  "           id_CSA1PPOS" from core  4  
+         645  XXX    Local     SS1  named_signal_prc  "           iq_CSA1PPOS" from core  4  
+         646  XXX    Local     SS1  named_signal_prc  "           id_CSA1NPOS" from core  4  
+         647  XXX    Local     SS1  named_signal_prc  "           iq_CSA1NPOS" from core  4  
+         648  XXX    Local     SS1  named_signal_prc  "           id_CSA2PPOS" from core  4  
+         649  XXX    Local     SS1  named_signal_prc  "           iq_CSA2PPOS" from core  4  
+         650  XXX    Local     SS1  named_signal_prc  "           id_CSA2NPOS" from core  4  
+         651  XXX    Local     SS1  named_signal_prc  "           iq_CSA2NPOS" from core  4  
+         652  XXX    Local     SS1  named_signal_prc  "           id_CSA1PNEG" from core  4  
+         653  XXX    Local     SS1  named_signal_prc  "           iq_CSA1PNEG" from core  4  
+         654  XXX    Local     SS1  named_signal_prc  "           id_CSA1NNEG" from core  4  
+         655  XXX    Local     SS1  named_signal_prc  "           iq_CSA1NNEG" from core  4  
+         656  XXX    Local     SS1  named_signal_prc  "           id_CSA2PNEG" from core  4  
+         657  XXX    Local     SS1  named_signal_prc  "           iq_CSA2PNEG" from core  4  
+         658  XXX    Local     SS1  named_signal_prc  "           id_CSA2NNEG" from core  4  
+         659  XXX    Local     SS1  named_signal_prc  "           iq_CSA2NNEG" from core  4  
+         660  XXX    Local     SS1  named_signal_prc  "            Vdpu_CSA1P" from core  4  
+         661  XXX    Local     SS1  named_signal_prc  "            Vqpu_CSA1P" from core  4  
+         662  XXX    Local     SS1  named_signal_prc  "            Vdpu_CSA1N" from core  4  
+         663  XXX    Local     SS1  named_signal_prc  "            Vqpu_CSA1N" from core  4  
+         664  XXX    Local     SS1  named_signal_prc  "         Vdpu_CSA1PPOS" from core  4  
+         665  XXX    Local     SS1  named_signal_prc  "         Vqpu_CSA1PPOS" from core  4  
+         666  XXX    Local     SS1  named_signal_prc  "         Vdpu_CSA1NPOS" from core  4  
+         667  XXX    Local     SS1  named_signal_prc  "         Vqpu_CSA1NPOS" from core  4  
+         668  XXX    Local     SS1  named_signal_prc  "         Vdpu_CSA2PPOS" from core  4  
+         669  XXX    Local     SS1  named_signal_prc  "         Vqpu_CSA2PPOS" from core  4  
+         670  XXX    Local     SS1  named_signal_prc  "         Vdpu_CSA2NPOS" from core  4  
+         671  XXX    Local     SS1  named_signal_prc  "         Vqpu_CSA2NPOS" from core  4  
+         672  XXX    Local     SS1  named_signal_prc  "         Vdpu_CSA1PNEG" from core  4  
+         673  XXX    Local     SS1  named_signal_prc  "         Vqpu_CSA1PNEG" from core  4  
+         674  XXX    Local     SS1  named_signal_prc  "         Vdpu_CSA1NNEG" from core  4  
+         675  XXX    Local     SS1  named_signal_prc  "         Vqpu_CSA1NNEG" from core  4  
+         676  XXX    Local     SS1  named_signal_prc  "         Vdpu_CSA2PNEG" from core  4  
+         677  XXX    Local     SS1  named_signal_prc  "         Vqpu_CSA2PNEG" from core  4  
+         678  XXX    Local     SS1  named_signal_prc  "         Vdpu_CSA2NNEG" from core  4  
+         679  XXX    Local     SS1  named_signal_prc  "         Vqpu_CSA2NNEG" from core  4  
+         680  XXX    Local     SS1  named_signal_prc  "              id_CSA1P" from core  4  
+         681  XXX    Local     SS1  named_signal_prc  "              iq_CSA1P" from core  4  
+         682  XXX    Local     SS1  named_signal_prc  "              id_CSA1N" from core  4  
+         683  XXX    Local     SS1  named_signal_prc  "              iq_CSA1N" from core  4  
+         684  XXX    Local     SS1  named_signal_prc  "           Theta_CSA1N" from core  4  
+         685  XXX    Local     SS1  named_signal_prc  "           Theta_CSA1P" from core  4  
+         686  XXX    Local     SS1  named_signal_prc  "           thPLL_CSA1P" from core  4  
+         687  XXX    Local     SS1  named_signal_prc  "           thPLL_CSA1N" from core  4  
+         688  XXX    Local     SS1  named_signal_prc  "        Th_CSA1PsecPOS" from core  4  
+         689  XXX    Local     SS1  named_signal_prc  "        Th_CSA1NsecPOS" from core  4  
+         690  XXX    Local     SS1  named_signal_prc  "        Th_CSA1PsecNEG" from core  4  
+         691  XXX    Local     SS1  named_signal_prc  "        Th_CSA1NsecNEG" from core  4  
+         692  XXX    Local     SS1  named_signal_prc  "        RT_@DNP_CSA2_1" from core  4  
+         693  XXX    Local     SS1  named_signal_prc  "        RT_@DNP_CSA1_3" from core  4  
+         694  XXX    Local     SS1  named_signal_prc  "        RT_@DNP_CSA1_2" from core  4  
+         695  XXX    Local     SS1  named_signal_prc  "                  Imax" from core  4  
+         696  XXX    Local     SS1  named_signal_prc  "             Vza_CSA1P" from core  4  
+         697  XXX    Local     SS1  named_signal_prc  "             Vzc_CSA1P" from core  4  
+         698  XXX    Local     SS1  named_signal_prc  "             Vzb_CSA1P" from core  4  
+         699  XXX    Local     SS1  named_signal_prc  "             Vza_CSA1N" from core  4  
+         700  XXX    Local     SS1  named_signal_prc  "             Vzc_CSA1N" from core  4  
+         701  XXX    Local     SS1  named_signal_prc  "             Vzb_CSA1N" from core  4  
+         702  XXX    Local     SS1  named_signal_prc  "           Ref_a_CSA1P" from core  4  
+         703  XXX    Local     SS1  named_signal_prc  "           Ref_b_CSA1P" from core  4  
+         704  XXX    Local     SS1  named_signal_prc  "           Ref_c_CSA1P" from core  4  
+         705  XXX    Local     SS1  named_signal_prc  "           Ref_a_CSA1N" from core  4  
+         706  XXX    Local     SS1  named_signal_prc  "           Ref_b_CSA1N" from core  4  
+         707  XXX    Local     SS1  named_signal_prc  "           Ref_c_CSA1N" from core  4  
+         708  XXX    Local     SS1  named_signal_prc  "        Ref_a_CSA1PPOS" from core  4  
+         709  XXX    Local     SS1  named_signal_prc  "        Ref_b_CSA1PPOS" from core  4  
+         710  XXX    Local     SS1  named_signal_prc  "        Ref_c_CSA1PPOS" from core  4  
+         711  XXX    Local     SS1  named_signal_prc  "        Ref_a_CSA1NPOS" from core  4  
+         712  XXX    Local     SS1  named_signal_prc  "        Ref_b_CSA1NPOS" from core  4  
+         713  XXX    Local     SS1  named_signal_prc  "        Ref_c_CSA1NPOS" from core  4  
+         714  XXX    Local     SS1  named_signal_prc  "        Ref_a_CSA1PNEG" from core  4  
+         715  XXX    Local     SS1  named_signal_prc  "        Ref_b_CSA1PNEG" from core  4  
+         716  XXX    Local     SS1  named_signal_prc  "        Ref_c_CSA1PNEG" from core  4  
+         717  XXX    Local     SS1  named_signal_prc  "        Ref_a_CSA1NNEG" from core  4  
+         718  XXX    Local     SS1  named_signal_prc  "        Ref_b_CSA1NNEG" from core  4  
+         719  XXX    Local     SS1  named_signal_prc  "        Ref_c_CSA1NNEG" from core  4  
+         720  XXX    Local     SS1  named_signal_prc  "           iqref_CSA1P" from core  4  
+         721  XXX    Local     SS1  named_signal_prc  "          IDREFp_CSA1P" from core  4  
+         722  XXX    Local     SS1  named_signal_prc  "           iqref_CSA1N" from core  4  
+         723  XXX    Local     SS1  named_signal_prc  "          IDREFp_CSA1N" from core  4  
+         724  XXX    Local     SS1  named_signal_prc  "          VdcBb__CSA1P" from core  4  
+         725  XXX    Local     SS1  named_signal_prc  "             Iza_CSA1P" from core  4  
+         726  XXX    Local     SS1  named_signal_prc  "             Iza_CSA1N" from core  4  
+         727  XXX    Local     SS1  named_signal_prc  "             Izb_CSA1P" from core  4  
+         728  XXX    Local     SS1  named_signal_prc  "             Izb_CSA1N" from core  4  
+         729  XXX    Local     SS1  named_signal_prc  "             Izc_CSA1P" from core  4  
+         730  XXX    Local     SS1  named_signal_prc  "             Izc_CSA1N" from core  4  
+         731  XXX    Local     SS1  named_signal_prc  "            Vb_CSA1Nac" from core  4  
+         732  XXX    Local     SS1  named_signal_prc  "        thPLL_CSA1PNEG" from core  4  
+         733  XXX    Local     SS1  named_signal_prc  "        thPLL_CSA1NNEG" from core  4  
+         734  XXX    Local     SS1  named_signal_prc  "          Theta5_CSA1N" from core  4  
+         735  XXX    Local     SS1  named_signal_prc  "          Theta5_CSA1P" from core  4  
+         736  XXX    Local     SS1  named_signal_prc  "          VDREF5_CSA1N" from core  4  
+         737  XXX    Local     SS1  named_signal_prc  "          VQREF5_CSA1N" from core  4  
+         738  XXX    Local     SS1  named_signal_prc  "          VDREF5_CSA1P" from core  4  
+         739  XXX    Local     SS1  named_signal_prc  "          VQREF5_CSA1P" from core  4  
+         740  XXX    Local     SS1  named_signal_prc  "          VDCpuN_CSA1P" from core  4  
+         741  XXX    Local     SS1  named_signal_prc  "         IqrefMn_CSA1N" from core  4  
+         742  XXX    Local     SS1  named_signal_prc  "         IdrefMn_CSA1N" from core  4  
+         743  XXX    Local     SS1  named_signal_prc  "        IqrefMin_CSA1P" from core  4  
+         744  XXX    Local     SS1  named_signal_prc  "        IdrefMin_CSA1P" from core  4  
+         745  XXX    Local     SS1  named_signal_prc  "           out1t_CSA1P" from core  4  
+         746  XXX    Local     SS1  named_signal_prc  "           out2t_CSA1P" from core  4  
+         747  XXX    Local     SS1  named_signal_prc  "        outpi1_t_CSA1P" from core  4  
+         748  XXX    Local     SS1  named_signal_prc  "        outpi2_t_CSA1P" from core  4  
+         749  XXX    Local     SS1  named_signal_prc  "         IDREFdc_CSA1P" from core  4  
+         750  XXX    Local     SS1  named_signal_prc  "           PIpwr_CSA1P" from core  4  
+         751  XXX    Local     SS1  named_signal_prc  "          IQREFq_CSA1P" from core  4  
+         752  XXX    Local     SS1  named_signal_prc  "        IQREFvac_CSA1P" from core  4  
+         753  XXX    Local     SS1  named_signal_prc  "          IdVac5_CSA1P" from core  4  
+         754  XXX    Local     SS1  named_signal_prc  "     outpi1_t_CSA1PPOS" from core  4  
+         755  XXX    Local     SS1  named_signal_prc  "     outpi1_t_CSA1PNEG" from core  4  
+         756  XXX    Local     SS1  named_signal_prc  "     outpi2_t_CSA1PNEG" from core  4  
+         757  XXX    Local     SS1  named_signal_prc  "     outpi2_t_CSA1PPOS" from core  4  
+         758  XXX    Local     SS1  named_signal_prc  "           out1t_CSA1N" from core  4  
+         759  XXX    Local     SS1  named_signal_prc  "           out2t_CSA1N" from core  4  
+         760  XXX    Local     SS1  named_signal_prc  "          opi1_t_CSA1N" from core  4  
+         761  XXX    Local     SS1  named_signal_prc  "          opi2_t_CSA1N" from core  4  
+         762  XXX    Local     SS1  named_signal_prc  "         IDREFdc_CSA1N" from core  4  
+         763  XXX    Local     SS1  named_signal_prc  "           PIpwr_CSA1N" from core  4  
+         764  XXX    Local     SS1  named_signal_prc  "          IQREFq_CSA1N" from core  4  
+         765  XXX    Local     SS1  named_signal_prc  "         IQREFac_CSA1N" from core  4  
+         766  XXX    Local     SS1  named_signal_prc  "          IdVac5_CSA1N" from core  4  
+         767  XXX    Local     SS1  named_signal_prc  "     outpi1_t_CSA1NPOS" from core  4  
+         768  XXX    Local     SS1  named_signal_prc  "     outpi1_t_CSA1NNEG" from core  4  
+         769  XXX    Local     SS1  named_signal_prc  "     outpi2_t_CSA1NNEG" from core  4  
+         770  XXX    Local     SS1  named_signal_prc  "     outpi2_t_CSA1NPOS" from core  4  
+         771  XXX    Local     SS1  named_signal_prc  "               m_CSA1P" from core  4  
+         772  XXX    Local     SS1  named_signal_prc  "               m_CSA1N" from core  4  
+         773  XXX    Local     SS1  named_signal_prc  "          NORDPA_CSA1P" from core  4  
+         774  XXX    Local     SS1  named_signal_prc  "          NORDNA_CSA1P" from core  4  
+         775  XXX    Local     SS1  named_signal_prc  "          NORDPB_CSA1P" from core  4  
+         776  XXX    Local     SS1  named_signal_prc  "          NORDNB_CSA1P" from core  4  
+         777  XXX    Local     SS1  named_signal_prc  "          NORDPC_CSA1P" from core  4  
+         778  XXX    Local     SS1  named_signal_prc  "          NORDNC_CSA1P" from core  4  
+         779  XXX    Local     SS1  named_signal_prc  "          NORDPA_CSA1N" from core  4  
+         780  XXX    Local     SS1  named_signal_prc  "          NORDNA_CSA1N" from core  4  
+         781  XXX    Local     SS1  named_signal_prc  "          NORDPB_CSA1N" from core  4  
+         782  XXX    Local     SS1  named_signal_prc  "          NORDNB_CSA1N" from core  4  
+         783  XXX    Local     SS1  named_signal_prc  "          NORDPC_CSA1N" from core  4  
+         784  XXX    Local     SS1  named_signal_prc  "          NORDNC_CSA1N" from core  4  
+         785  XXX    Local     SS1  named_signal_prc  "        IT_@DNP_CSA2_b" from core  4  
+         786  XXX    Local     SS1  named_signal_prc  "        IT_@DNP_CSA2_5" from core  4  
+         787  XXX    Local     SS1  named_signal_prc  "           rst1t_CSA1P" from core  4  
+         788  XXX    Local     SS1  named_signal_prc  "           rst1t_CSA1N" from core  4  
+         789  XXX    Local     SS1  named_signal_prc  "           rst2t_CSA1P" from core  4  
+         790  XXX    Local     SS1  named_signal_prc  "           rst2t_CSA1N" from core  4  
+         791  XXX    Local     SS1  named_signal_prc  "           G1DBLK_CSA1" from core  4  
+         792  XXX    Local     SS1  named_signal_prc  "         FTLMODE_CSA1N" from core  4  
+         793  XXX    Local     SS1  named_signal_prc  "         FTLMODE_CSA1P" from core  4  
+         794  XXX    Local     SS1  named_signal_prc  "          IASECD_CSA1P" from core  4  
+         795  XXX    Local     SS1  named_signal_prc  "          IBSECD_CSA1P" from core  4  
+         796  XXX    Local     SS1  named_signal_prc  "          ICSECD_CSA1P" from core  4  
+         797  XXX    Local     SS1  named_signal_prc  "         VacErr5_CSA1N" from core  4  
+         798  XXX    Local     SS1  named_signal_prc  "         VacErr5_CSA1P" from core  4  
+         799  XXX    Local     SS1  named_signal_prc  "          IASECD_CSA1N" from core  4  
+         800  XXX    Local     SS1  named_signal_prc  "          IBSECD_CSA1N" from core  4  
+         801  XXX    Local     SS1  named_signal_prc  "          ICSECD_CSA1N" from core  4  
+         802  XXX    Local     SS1  named_signal_prc  "             Vzd_CSA1P" from core  4  
+         803  XXX    Local     SS1  named_signal_prc  "             Vzd_CSA1N" from core  4  
+         804  XXX    Local     SS1  named_signal_prc  "             Vzq_CSA1P" from core  4  
+         805  XXX    Local     SS1  named_signal_prc  "             Vzq_CSA1N" from core  4  
+         806  XXX    Local     SS1  named_signal_prc  "          BRKaux_CSA1P" from core  4  
+         807  XXX    Local     SS1  named_signal_prc  "          vd_isl_CSA1N" from core  4  
+         808  XXX    Local     SS1  named_signal_prc  "            BRKm_CSA1P" from core  4  
+         809  XXX    Local     SS1  named_signal_prc  "          vd_isl_CSA1P" from core  4  
+         810  XXX    Local     SS1  named_signal_prc  "          BRKaux_CSA1N" from core  4  
+         811  XXX    Local     SS1  named_signal_prc  "            BRKm_CSA1N" from core  4  
+         812  XXX    Local     SS1  named_signal_prc  "          Ref_aH_CSA1P" from core  4  
+         813  XXX    Local     SS1  named_signal_prc  "          Ref_aH_CSA1N" from core  4  
+         814  XXX    Local     SS1  named_signal_prc  "       Ref_aH_CSA1PPOS" from core  4  
+         815  XXX    Local     SS1  named_signal_prc  "       Ref_aH_CSA1NPOS" from core  4  
+         816  XXX    Local     SS1  named_signal_prc  "       Ref_aH_CSA1PNEG" from core  4  
+         817  XXX    Local     SS1  named_signal_prc  "       Ref_aH_CSA1NNEG" from core  4  
+         818  XXX    Local     SS1  named_signal_prc  "           ACBRK_CSA1P" from core  4  
+         819  XXX    Local     SS1  named_signal_prc  "           ACBRK_CSA1N" from core  4  
+         820  XXX    Local     SS1  named_signal_prc  "             Rst5_CSA1" from core  4  
+         821  XXX    Local     SS1  named_signal_prc  "             Rst_CSA1P" from core  4  
+         822  XXX    Local     SS1  named_signal_prc  "             Rst_CSA1N" from core  4  
+         823  XXX    Local     SS1  named_signal_prc  "                 reset" from core  4  
+         824  XXX    Local     SS1  named_signal_prc  "            N1_CSA1Ppu" from core  4  
+         825  XXX    Local     SS1  named_signal_prc  "            N2_CSA1Ppu" from core  4  
+         826  XXX    Local     SS1  named_signal_prc  "            N3_CSA1Ppu" from core  4  
+         827  XXX    Local     SS1  named_signal_prc  "           IAP_CSA1Ppu" from core  4  
+         828  XXX    Local     SS1  named_signal_prc  "           IBP_CSA1Ppu" from core  4  
+         829  XXX    Local     SS1  named_signal_prc  "           ICP_CSA1Ppu" from core  4  
+         830  XXX    Local     SS1  named_signal_prc  "           IaT_CSA1Ppu" from core  4  
+         831  XXX    Local     SS1  named_signal_prc  "           IbT_CSA1Ppu" from core  4  
+         832  XXX    Local     SS1  named_signal_prc  "           IcT_CSA1Ppu" from core  4  
+         833  XXX    Local     SS1  named_signal_prc  "           IAP_CSA1Npu" from core  4  
+         834  XXX    Local     SS1  named_signal_prc  "           IBP_CSA1Npu" from core  4  
+         835  XXX    Local     SS1  named_signal_prc  "           ICP_CSA1Npu" from core  4  
+         836  XXX    Local     SS1  named_signal_prc  "           IaT_CSA1Npu" from core  4  
+         837  XXX    Local     SS1  named_signal_prc  "           IbT_CSA1Npu" from core  4  
+         838  XXX    Local     SS1  named_signal_prc  "           IcT_CSA1Npu" from core  4  
+         839  XXX    Local     SS1  named_signal_prc  "          VDCpuP_CSA1P" from core  4  
+         840  XXX    Local     SS1  named_signal_prc  "        VACmagpu_CSA1P" from core  4  
+         841  XXX    Local     SS1  named_signal_prc  "             Ppu_CSA1P" from core  4  
+         842  XXX    Local     SS1  named_signal_prc  "             Qpu_CSA1P" from core  4  
+         843  XXX    Local     SS1  named_signal_prc  "             Ppu_CSA1N" from core  4  
+         844  XXX    Local     SS1  named_signal_prc  "             Qpu_CSA1N" from core  4  
+         845  XXX    Local     SS1  named_signal_prc  "        thetaVCO_CSA1N" from core  4  
+         846  XXX    Local     SS1  named_signal_prc  "        thetaVCO_CSA1P" from core  4  
+         847  XXX    Local     SS1  named_signal_prc  "            PMMC_CSA1P" from core  4  
+         848  XXX    Local     SS1  named_signal_prc  "            QMMC_CSA1P" from core  4  
+         849  XXX    Local     SS1  named_signal_prc  "            PMMC_CSA1N" from core  4  
+         850  XXX    Local     SS1  named_signal_prc  "            QMMC_CSA1N" from core  4  
+         851  XXX    Local     SS1  named_signal_prc  "          VRMS_CSA1Ppu" from core  4  
+         852  XXX    Local     SS1  named_signal_prc  "           angle_CSA1P" from core  4  
+         853  XXX    Local     SS1  named_signal_prc  "           angle_CSA1N" from core  4  
+         854  XXX    Local     SS1  named_signal_prc  "            Imag_CSA1P" from core  4  
+         855  XXX    Local     SS1  named_signal_prc  "             rad_CSA1P" from core  4  
+         856  XXX    Local     SS1  named_signal_prc  "            Imag_CSA1N" from core  4  
+         857  XXX    Local     SS1  named_signal_prc  "             rad_CSA1N" from core  4  
+         858  XXX    Local     SS1  named_signal_prc  "           IDREF_CSA1P" from core  4  
+         859  XXX    Local     SS1  named_signal_prc  "           IQREF_CSA1P" from core  4  
+         860  XXX    Local     SS1  named_signal_prc  "           IDREF_CSA1N" from core  4  
+         861  XXX    Local     SS1  named_signal_prc  "           IQREF_CSA1N" from core  4  
+         862  XXX    Local     SS1  named_signal_prc  "           idref_CSA1P" from core  4  
+         863  XXX    Local     SS1  named_signal_prc  "           idref_CSA1N" from core  4  
+         864  XXX    Local     SS1  named_signal_prc  "           Th_CSA1Psec" from core  4  
+         865  XXX    Local     SS1  named_signal_prc  "          Th_CSA1PsecB" from core  4  
+         866  XXX    Local     SS1  named_signal_prc  "         IqrefMx_CSA1N" from core  4  
+         867  XXX    Local     SS1  named_signal_prc  "         IdrefMx_CSA1N" from core  4  
+         868  XXX    Local     SS1  named_signal_prc  "        IqrefMax_CSA1P" from core  4  
+         869  XXX    Local     SS1  named_signal_prc  "        IdrefMax_CSA1P" from core  4  
+         870  XXX    Local     SS1  named_signal_prc  "                  G_A3" from core  4  
+         871  XXX    Local     SS1  named_signal_prc  "            Pref_CSA1P" from core  4  
+         872  XXX    Local     SS1  named_signal_prc  "            Qref_CSA1P" from core  4  
+         873  XXX    Local     SS1  named_signal_prc  "                  T_A3" from core  4  
+         874  XXX    Local     SS1  named_signal_prc  "          VACref_CSA1P" from core  4  
+         875  XXX    Local     SS1  named_signal_prc  "                VDCref" from core  4  
+         876  XXX    Local     SS1  named_signal_prc  "        IT_@ss2boxAC_4" from core  4  
+         877  XXX    Local     SS1  named_signal_prc  "IT_@DC_fault_control_8" from core  4  
+         878  XXX    Local     SS1  named_signal_prc  "             DCBRKctrl" from core  4  
+         879  XXX    Local     SS1  named_signal_prc  "          DCBRKctrlaux" from core  4  
+         880  XXX    Local     SS1  named_signal_prc  "         VCONBPU_CSA1P" from core  4  
+         881  XXX    Local     SS1  named_signal_prc  "           iderr_CSA1N" from core  4  
+         882  XXX    Local     SS1  named_signal_prc  "           iqerr_CSA1N" from core  4  
+         883  XXX    Local     SS1  named_signal_prc  "         PmeasBb_CSA1P" from core  4  
+         884  XXX    Local     SS1  named_signal_prc  "            in1t_CSA1P" from core  4  
+         885  XXX    Local     SS1  named_signal_prc  "            in1t_CSA1N" from core  4  
+         886  XXX    Local     SS1  named_signal_prc  "           iderr_CSA1P" from core  4  
+         887  XXX    Local     SS1  named_signal_prc  "           iqerr_CSA1P" from core  4  
+         888  XXX    Local     SS1  named_signal_prc  "            in2t_CSA1P" from core  4  
+         889  XXX    Local     SS1  named_signal_prc  "            in2t_CSA1N" from core  4  
+         890  XXX    Local     SS1  named_signal_prc  "          VD_CSA1PREFB" from core  4  
+         891  XXX    Local     SS1  named_signal_prc  "          VQ_CSA1PREFB" from core  4  
+         892  XXX    Local     SS1  named_signal_prc  "          VacErr_CSA1P" from core  4  
+         893  XXX    Local     SS1  named_signal_prc  "           VD_CSA1PREF" from core  4  
+         894  XXX    Local     SS1  named_signal_prc  "           VQ_CSA1PREF" from core  4  
+         895  XXX    Local     SS1  named_signal_prc  "          VacErr_CSA1N" from core  4  
+         896  XXX    Local     SS1  named_signal_prc  "        iderr_CSA1PPOS" from core  4  
+         897  XXX    Local     SS1  named_signal_prc  "        iderr_CSA1NPOS" from core  4  
+         898  XXX    Local     SS1  named_signal_prc  "        iqerr_CSA1PPOS" from core  4  
+         899  XXX    Local     SS1  named_signal_prc  "        iqerr_CSA1NPOS" from core  4  
+         900  XXX    Local     SS1  named_signal_prc  "            Perr_CSA1P" from core  4  
+         901  XXX    Local     SS1  named_signal_prc  "            qerr_CSA1P" from core  4  
+         902  XXX    Local     SS1  named_signal_prc  "        VD_CSA1PREFPOS" from core  4  
+         903  XXX    Local     SS1  named_signal_prc  "        VD_CSA1NREFPOS" from core  4  
+         904  XXX    Local     SS1  named_signal_prc  "        VQ_CSA1PREFPOS" from core  4  
+         905  XXX    Local     SS1  named_signal_prc  "        VQ_CSA1NREFPOS" from core  4  
+         906  XXX    Local     SS1  named_signal_prc  "            Perr_CSA1N" from core  4  
+         907  XXX    Local     SS1  named_signal_prc  "          VDCerr_CSA1P" from core  4  
+         908  XXX    Local     SS1  named_signal_prc  "            qerr_CSA1N" from core  4  
+         909  XXX    Local     SS1  named_signal_prc  "          VDCerr_CSA1N" from core  4  
+         910  XXX    Local     SS1  named_signal_prc  "            wLpu_CSA1P" from core  4  
+         911  XXX    Local     SS1  named_signal_prc  "            wLpu_CSA1N" from core  4  
+         912  XXX    Local     SS1  named_signal_prc  "        iderr_CSA1PNEG" from core  4  
+         913  XXX    Local     SS1  named_signal_prc  "        iderr_CSA1NNEG" from core  4  
+         914  XXX    Local     SS1  named_signal_prc  "        iqerr_CSA1PNEG" from core  4  
+         915  XXX    Local     SS1  named_signal_prc  "        iqerr_CSA1NNEG" from core  4  
+         916  XXX    Local     SS1  named_signal_prc  "        VD_CSA1PREFNEG" from core  4  
+         917  XXX    Local     SS1  named_signal_prc  "        VD_CSA1NREFNEG" from core  4  
+         918  XXX    Local     SS1  named_signal_prc  "        VQ_CSA1PREFNEG" from core  4  
+         919  XXX    Local     SS1  named_signal_prc  "        VQ_CSA1NREFNEG" from core  4  
+         920  XXX    Local     SS1  named_signal_prc  "         VCONAPU_CSA1P" from core  4  
+         921  XXX    Local     SS1  named_signal_prc  "         VCONAPU_CSA1N" from core  4  
+         922  XXX    Local     SS1  named_signal_prc  "         VCONBPU_CSA1N" from core  4  
+         923  XXX    Local     SS1  named_signal_prc  "         VCONCPU_CSA1N" from core  4  
+         924  XXX    Local     SS1  named_signal_prc  "         VCONCPU_CSA1P" from core  4  
+         925  XXX    Local     SS1  named_signal_prc  "     Ref_a_CSA1PPOSNEG" from core  4  
+         926  XXX    Local     SS1  named_signal_prc  "     Ref_a_CSA1NPOSNEG" from core  4  
+         927  XXX    Local     SS1  named_signal_prc  "     Ref_b_CSA1PPOSNEG" from core  4  
+         928  XXX    Local     SS1  named_signal_prc  "     Ref_b_CSA1NPOSNEG" from core  4  
+         929  XXX    Local     SS1  named_signal_prc  "     Ref_c_CSA1PPOSNEG" from core  4  
+         930  XXX    Local     SS1  named_signal_prc  "     Ref_c_CSA1NPOSNEG" from core  4  
+         931  XXX    Local     SS1  named_signal_prc  "    Ref_aH_CSA1PPOSNEG" from core  4  
+         932  XXX    Local     SS1  named_signal_prc  "    Ref_aH_CSA1NPOSNEG" from core  4  
+         933  XXX    Local     SS1  named_signal_prc  "        BAL_PN_CSA1Ppu" from core  4  
+         934  XXX    Local     SS1  named_signal_prc  "                CCSCEn" from core  4  
+         935  XXX    Local     SS1  named_signal_prc  "                HarmON" from core  4  
+         936  XXX    Local     SS1  named_signal_prc  "       Iarm_protection" from core  4  
+         937  XXX    Local     SS1  named_signal_prc  "         idmode_CSA1Px" from core  4  
+         938  XXX    Local     SS1  named_signal_prc  "            ILimPriori" from core  4  
+         939  XXX    Local     SS1  named_signal_prc  "          Iqmode_CSA1P" from core  4  
+         940  XXX    Local     SS1  named_signal_prc  "       Islandmode_CSA1" from core  4  
+         941  XXX    Local     SS1  named_signal_prc  "          Qref_CSA1Ppu" from core  4  
+         942  XXX    Local     SS1  named_signal_prc  "          Pref_CSA1Ppu" from core  4  
+         943  XXX    Local     SS1  named_signal_prc  "           izdpu_CSA1P" from core  4  
+         944  XXX    Local     SS1  named_signal_prc  "           izdpu_CSA1N" from core  4  
+         945  XXX    Local     SS1  named_signal_prc  "           izqpu_CSA1P" from core  4  
+         946  XXX    Local     SS1  named_signal_prc  "           izqpu_CSA1N" from core  4  
+         947  XXX    Local     SS1  named_signal_prc  "           Ibase_CSA1P" from core  4  
+         948  XXX    Local     SS1  named_signal_prc  "           Ibase_CSA1N" from core  4  
+         949  XXX    Local     SS1  named_signal_prc  "           Zbase_CSA1P" from core  4  
+         950  XXX    Local     SS1  named_signal_prc  "           Zbase_CSA1N" from core  4  
+         951  XXX    Local     SS1  named_signal_prc  "           Idccable0aP" from core  5  
+         952  XXX    Local     SS1  named_signal_prc  "           Idccable0aN" from core  5  
+         953  XXX    Local     SS1  named_signal_prc  "               IdcA2A1" from core  5  
+         954  XXX    Local     SS1  named_signal_prc  "              IdcA2A1n" from core  5  
+         955  XXX    Local     SS1  named_signal_prc  "                  IMOV" from core  5  
+         956  XXX    Local     SS1  named_signal_prc  "                   ESA" from core  5  
+         957  XXX    Local     SS1  named_signal_prc  "                 IMOV1" from core  5  
+         958  XXX    Local     SS1  named_signal_prc  "                  ESA1" from core  5  
+         959  XXX    Local     SS1  named_signal_prc  "             WT1IstatA" from core  5  
+         960  XXX    Local     SS1  named_signal_prc  "             WT1IstatB" from core  5  
+         961  XXX    Local     SS1  named_signal_prc  "             WT1IstatC" from core  5  
+         962  XXX    Local     SS1  named_signal_prc  "            WT1RotAnge" from core  5  
+         963  XXX    Local     SS1  named_signal_prc  "            WT1TeGenPU" from core  5  
+         964  XXX    Local     SS1  named_signal_prc  "              WT1SPDPU" from core  5  
+         965  XXX    Local     SS1  named_signal_prc  "              LCKSPDPU" from core  5  
+         966  XXX    Local     SS1  named_signal_prc  "           WF1Itr1SecA" from core  5  
+         967  XXX    Local     SS1  named_signal_prc  "           WF1Itr1SecB" from core  5  
+         968  XXX    Local     SS1  named_signal_prc  "           WF1Itr1SecC" from core  5  
+         969  XXX    Local     SS1  named_signal_prc  "           WT1Itr2SecA" from core  5  
+         970  XXX    Local     SS1  named_signal_prc  "           WT1Itr2SecB" from core  5  
+         971  XXX    Local     SS1  named_signal_prc  "           WT1Itr2SecC" from core  5  
+         972  XXX    Local     SS1  named_signal_prc  "            WT1Vcon1TA" from core  5  
+         973  XXX    Local     SS1  named_signal_prc  "            WT1Vcon1TB" from core  5  
+         974  XXX    Local     SS1  named_signal_prc  "            WT1Vcon1TC" from core  5  
+         975  XXX    Local     SS1  named_signal_prc  "            WT1Icon1TA" from core  5  
+         976  XXX    Local     SS1  named_signal_prc  "            WT1Icon1TB" from core  5  
+         977  XXX    Local     SS1  named_signal_prc  "            WT1Icon1TC" from core  5  
+         978  XXX    Local     SS1  named_signal_prc  "            WT1Vcon2TA" from core  5  
+         979  XXX    Local     SS1  named_signal_prc  "            WT1Vcon2TB" from core  5  
+         980  XXX    Local     SS1  named_signal_prc  "            WT1Vcon2TC" from core  5  
+         981  XXX    Local     SS1  named_signal_prc  "            WT1Icon2TA" from core  5  
+         982  XXX    Local     SS1  named_signal_prc  "            WT1Icon2TB" from core  5  
+         983  XXX    Local     SS1  named_signal_prc  "            WT1Icon2TC" from core  5  
