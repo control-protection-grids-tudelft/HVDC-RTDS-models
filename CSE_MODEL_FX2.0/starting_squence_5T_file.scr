@@ -180,6 +180,6 @@ SetSwitch "Subsystem #1 : CTLs : Inputs : Iarm_protection" = 1;
 function savefile(int a) 
 { 
 fprintf(stdmsg,"Saving plot data for Case Number %d\n",a);
-SavePlotToCSV "Starting_sequence_plot","C:\PhD\2022-23\March23\CSE_Paper\start_seq\Plotx"::itoa(a)::".csv";
+SavePlotToCSV "Starting_sequence_plot","\startupdata\Plot"::itoa(a)::".csv";
 return();
 }

@@ -13,15 +13,15 @@ DISTRIBUTION_MODE= 0
 SUBSYSTEM_NUMBER= 1
 NUMBER_OF_DRAFT_VARIABLES=1911
 SECTION: PRE_PROCESSOR
-       Slider Desc="Csm_CSA1" Group="DraftVariables"   Max=100000 Min=0.0 InitValue=25000.0 Units="uF"
+       Slider Desc="Csm_CSA1" Group="DraftVariables"   Max=100000 Min=0.0 InitValue=15000.0 Units="uF"
         String Desc="Csm_CSA1" Group="DraftVariables|Annotation" InitValue="uF"
-       Slider Desc="Csm_CSA2" Group="DraftVariables"   Max=100000 Min=0.0 InitValue=14875.0 Units="uF"
+       Slider Desc="Csm_CSA2" Group="DraftVariables"   Max=100000 Min=0.0 InitValue=15000.0 Units="uF"
         String Desc="Csm_CSA2" Group="DraftVariables|Annotation" InitValue="uF"
        Slider Desc="Csm_CSA3" Group="DraftVariables"   Max=100000 Min=0.0 InitValue=15000.0 Units="uF"
         String Desc="Csm_CSA3" Group="DraftVariables|Annotation" InitValue="uF"
-       Slider Desc="Csm_CSA4" Group="DraftVariables"   Max=100000 Min=0.0 InitValue=25000.0 Units="uF"
+       Slider Desc="Csm_CSA4" Group="DraftVariables"   Max=100000 Min=0.0 InitValue=15000.0 Units="uF"
         String Desc="Csm_CSA4" Group="DraftVariables|Annotation" InitValue="uF"
-       Slider Desc="Csm_CSA5" Group="DraftVariables"   Max=100000 Min=0.0 InitValue=25000.0 Units="uF"
+       Slider Desc="Csm_CSA5" Group="DraftVariables"   Max=100000 Min=0.0 InitValue=15000.0 Units="uF"
         String Desc="Csm_CSA5" Group="DraftVariables|Annotation" InitValue="uF"
        Slider Desc="Csnb" Group="DraftVariables"   Max=20.0 Min=0.0 InitValue=0.01 Units="uF"
         String Desc="Csnb" Group="DraftVariables|Annotation" InitValue="uF"
@@ -91,9 +91,9 @@ SECTION: PRE_PROCESSOR
         String Desc="INDEX_CSA5P" Group="DraftVariables|Annotation" InitValue="PU"
        Slider Desc="ISL_P_DROP_CSA1P" Group="DraftVariables"   Max=20 Min=0 InitValue=0.0 Units="PU"
         String Desc="ISL_P_DROP_CSA1P" Group="DraftVariables|Annotation" InitValue="PU"
-       Slider Desc="ISL_P_DROP_CSA2P" Group="DraftVariables"   Max=20 Min=0 InitValue=0.2 Units="PU"
+       Slider Desc="ISL_P_DROP_CSA2P" Group="DraftVariables"   Max=20 Min=0 InitValue=0.0 Units="PU"
         String Desc="ISL_P_DROP_CSA2P" Group="DraftVariables|Annotation" InitValue="PU"
-       Slider Desc="ISL_P_DROP_CSA3P" Group="DraftVariables"   Max=20 Min=0 InitValue=0.2 Units="PU"
+       Slider Desc="ISL_P_DROP_CSA3P" Group="DraftVariables"   Max=20 Min=0 InitValue=0.0 Units="PU"
         String Desc="ISL_P_DROP_CSA3P" Group="DraftVariables|Annotation" InitValue="PU"
        Slider Desc="ISL_P_DROP_CSA4P" Group="DraftVariables"   Max=20 Min=0 InitValue=0.0 Units="PU"
         String Desc="ISL_P_DROP_CSA4P" Group="DraftVariables|Annotation" InitValue="PU"
@@ -219,15 +219,15 @@ SECTION: PRE_PROCESSOR
         String Desc="KP_VACF_CSA4P" Group="DraftVariables|Annotation" InitValue="PU"
        Slider Desc="KP_VACF_CSA5P" Group="DraftVariables"   Max=20 Min=0 InitValue=0.0 Units="PU"
         String Desc="KP_VACF_CSA5P" Group="DraftVariables|Annotation" InitValue="PU"
-       Slider Desc="Larm_CSA1" Group="DraftVariables"   Max=1 Min=0.0 InitValue=0.025 Units="H"
+       Slider Desc="Larm_CSA1" Group="DraftVariables"   Max=1 Min=0.0 InitValue=0.0397 Units="H"
         String Desc="Larm_CSA1" Group="DraftVariables|Annotation" InitValue="H"
-       Slider Desc="Larm_CSA2" Group="DraftVariables"   Max=1 Min=0.0 InitValue=0.0497 Units="H"
+       Slider Desc="Larm_CSA2" Group="DraftVariables"   Max=1 Min=0.0 InitValue=0.0397 Units="H"
         String Desc="Larm_CSA2" Group="DraftVariables|Annotation" InitValue="H"
        Slider Desc="Larm_CSA3" Group="DraftVariables"   Max=1 Min=0.0 InitValue=0.0397 Units="H"
         String Desc="Larm_CSA3" Group="DraftVariables|Annotation" InitValue="H"
-       Slider Desc="Larm_CSA4" Group="DraftVariables"   Max=1 Min=0.0 InitValue=0.025 Units="H"
+       Slider Desc="Larm_CSA4" Group="DraftVariables"   Max=1 Min=0.0 InitValue=0.0397 Units="H"
         String Desc="Larm_CSA4" Group="DraftVariables|Annotation" InitValue="H"
-       Slider Desc="Larm_CSA5" Group="DraftVariables"   Max=1 Min=0.0 InitValue=0.025 Units="H"
+       Slider Desc="Larm_CSA5" Group="DraftVariables"   Max=1 Min=0.0 InitValue=0.0397 Units="H"
         String Desc="Larm_CSA5" Group="DraftVariables|Annotation" InitValue="H"
        Slider Desc="Lf_CSA1" Group="DraftVariables"   Max=1 Min=0 InitValue=0.04 Units="pu"
         String Desc="Lf_CSA1" Group="DraftVariables|Annotation" InitValue="pu"
@@ -291,15 +291,15 @@ SECTION: PRE_PROCESSOR
         String Desc="MAX_SAT_LIMIT_CSA4" Group="DraftVariables|Annotation" InitValue=""
        Slider Desc="MAX_SAT_LIMIT_CSA5" Group="DraftVariables"   Max=1.5 Min=0 InitValue=1.1 Units=""
         String Desc="MAX_SAT_LIMIT_CSA5" Group="DraftVariables|Annotation" InitValue=""
-       Slider Desc="MAX_SM_CSA1P" Group="DraftVariables"   Max=500 Min=0 InitValue=240.0 Units="pu" Type=INT
+       Slider Desc="MAX_SM_CSA1P" Group="DraftVariables"   Max=500 Min=0 InitValue=200.0 Units="pu" Type=INT
         String Desc="MAX_SM_CSA1P" Group="DraftVariables|Annotation" InitValue="pu"
        Slider Desc="MAX_SM_CSA2P" Group="DraftVariables"   Max=500 Min=0 InitValue=200.0 Units="pu" Type=INT
         String Desc="MAX_SM_CSA2P" Group="DraftVariables|Annotation" InitValue="pu"
        Slider Desc="MAX_SM_CSA3P" Group="DraftVariables"   Max=500 Min=0 InitValue=200.0 Units="pu" Type=INT
         String Desc="MAX_SM_CSA3P" Group="DraftVariables|Annotation" InitValue="pu"
-       Slider Desc="MAX_SM_CSA4P" Group="DraftVariables"   Max=500 Min=0 InitValue=240.0 Units="pu" Type=INT
+       Slider Desc="MAX_SM_CSA4P" Group="DraftVariables"   Max=500 Min=0 InitValue=200.0 Units="pu" Type=INT
         String Desc="MAX_SM_CSA4P" Group="DraftVariables|Annotation" InitValue="pu"
-       Slider Desc="MAX_SM_CSA5P" Group="DraftVariables"   Max=500 Min=0 InitValue=240.0 Units="pu" Type=INT
+       Slider Desc="MAX_SM_CSA5P" Group="DraftVariables"   Max=500 Min=0 InitValue=200.0 Units="pu" Type=INT
         String Desc="MAX_SM_CSA5P" Group="DraftVariables|Annotation" InitValue="pu"
        Slider Desc="MAX_VAL" Group="DraftVariables"   Max=10 Min=0.0 InitValue=6.0 Units="kA"
         String Desc="MAX_VAL" Group="DraftVariables|Annotation" InitValue="kA"
@@ -363,25 +363,25 @@ SECTION: PRE_PROCESSOR
         String Desc="MINFREQ_CSA4" Group="DraftVariables|Annotation" InitValue="hz"
        Slider Desc="MINFREQ_CSA5" Group="DraftVariables"   Max=60 Min=50 InitValue=38.0 Units="hz"
         String Desc="MINFREQ_CSA5" Group="DraftVariables|Annotation" InitValue="hz"
-       Slider Desc="MVA_CSA1" Group="DraftVariables"   Max=2000 Min=0.0 InitValue=2000.0 Units="MVA"
+       Slider Desc="MVA_CSA1" Group="DraftVariables"   Max=2000 Min=0.0 InitValue=1800.0 Units="MVA"
         String Desc="MVA_CSA1" Group="DraftVariables|Annotation" InitValue="MVA"
-       Slider Desc="MVA_CSA2" Group="DraftVariables"   Max=2000 Min=0.0 InitValue=2000.0 Units="MVA"
+       Slider Desc="MVA_CSA2" Group="DraftVariables"   Max=2000 Min=0.0 InitValue=1250.0 Units="MVA"
         String Desc="MVA_CSA2" Group="DraftVariables|Annotation" InitValue="MVA"
-       Slider Desc="MVA_CSA3" Group="DraftVariables"   Max=2000 Min=0.0 InitValue=2000.0 Units="MVA"
+       Slider Desc="MVA_CSA3" Group="DraftVariables"   Max=2000 Min=0.0 InitValue=1250.0 Units="MVA"
         String Desc="MVA_CSA3" Group="DraftVariables|Annotation" InitValue="MVA"
-       Slider Desc="MVA_CSA4" Group="DraftVariables"   Max=2000 Min=0.0 InitValue=2000.0 Units="MVA"
+       Slider Desc="MVA_CSA4" Group="DraftVariables"   Max=2000 Min=0.0 InitValue=1800.0 Units="MVA"
         String Desc="MVA_CSA4" Group="DraftVariables|Annotation" InitValue="MVA"
-       Slider Desc="MVA_CSA5" Group="DraftVariables"   Max=2000 Min=0.0 InitValue=2000.0 Units="MVA"
+       Slider Desc="MVA_CSA5" Group="DraftVariables"   Max=2000 Min=0.0 InitValue=1800.0 Units="MVA"
         String Desc="MVA_CSA5" Group="DraftVariables|Annotation" InitValue="MVA"
-       Slider Desc="phMVA_CSA1" Group="DraftVariables"   Max=700 Min=0.0 InitValue=666.667 Units="MVA"
+       Slider Desc="phMVA_CSA1" Group="DraftVariables"   Max=700 Min=0.0 InitValue=416.6667 Units="MVA"
         String Desc="phMVA_CSA1" Group="DraftVariables|Annotation" InitValue="MVA"
-       Slider Desc="phMVA_CSA2" Group="DraftVariables"   Max=700 Min=0.0 InitValue=666.667 Units="MVA"
+       Slider Desc="phMVA_CSA2" Group="DraftVariables"   Max=700 Min=0.0 InitValue=416.6667 Units="MVA"
         String Desc="phMVA_CSA2" Group="DraftVariables|Annotation" InitValue="MVA"
-       Slider Desc="phMVA_CSA3" Group="DraftVariables"   Max=700 Min=0.0 InitValue=666.667 Units="MVA"
+       Slider Desc="phMVA_CSA3" Group="DraftVariables"   Max=700 Min=0.0 InitValue=416.6667 Units="MVA"
         String Desc="phMVA_CSA3" Group="DraftVariables|Annotation" InitValue="MVA"
-       Slider Desc="phMVA_CSA4" Group="DraftVariables"   Max=700 Min=0.0 InitValue=666.667 Units="MVA"
+       Slider Desc="phMVA_CSA4" Group="DraftVariables"   Max=700 Min=0.0 InitValue=416.6667 Units="MVA"
         String Desc="phMVA_CSA4" Group="DraftVariables|Annotation" InitValue="MVA"
-       Slider Desc="phMVA_CSA5" Group="DraftVariables"   Max=700 Min=0.0 InitValue=666.667 Units="MVA"
+       Slider Desc="phMVA_CSA5" Group="DraftVariables"   Max=700 Min=0.0 InitValue=416.6667 Units="MVA"
         String Desc="phMVA_CSA5" Group="DraftVariables|Annotation" InitValue="MVA"
        Slider Desc="phVPRI_CSA1" Group="DraftVariables"   Max=500 Min=0.0 InitValue=219.3931 Units="kV"
         String Desc="phVPRI_CSA1" Group="DraftVariables|Annotation" InitValue="kV"
@@ -417,19 +417,19 @@ SECTION: PRE_PROCESSOR
         String Desc="PLL_Ti_CSA5" Group="DraftVariables|Annotation" InitValue="sec"
        Slider Desc="POLE_VDC" Group="DraftVariables"   Max=1000 Min=0.0 InitValue=525.0 Units=""
         String Desc="POLE_VDC" Group="DraftVariables|Annotation" InitValue=""
-       Slider Desc="Rarm_CSA1" Group="DraftVariables"   Max=1 Min=0.0 InitValue=0.0785 Units="Ohm"
+       Slider Desc="Rarm_CSA1" Group="DraftVariables"   Max=1 Min=0.0 InitValue=0.0 Units="Ohm"
         String Desc="Rarm_CSA1" Group="DraftVariables|Annotation" InitValue="Ohm"
        Slider Desc="Rarm_CSA2" Group="DraftVariables"   Max=1 Min=0.0 InitValue=0.0 Units="Ohm"
         String Desc="Rarm_CSA2" Group="DraftVariables|Annotation" InitValue="Ohm"
        Slider Desc="Rarm_CSA3" Group="DraftVariables"   Max=1 Min=0.0 InitValue=0.0 Units="Ohm"
         String Desc="Rarm_CSA3" Group="DraftVariables|Annotation" InitValue="Ohm"
-       Slider Desc="Rarm_CSA4" Group="DraftVariables"   Max=1 Min=0.0 InitValue=0.0785 Units="Ohm"
+       Slider Desc="Rarm_CSA4" Group="DraftVariables"   Max=1 Min=0.0 InitValue=0.0 Units="Ohm"
         String Desc="Rarm_CSA4" Group="DraftVariables|Annotation" InitValue="Ohm"
-       Slider Desc="Rarm_CSA5" Group="DraftVariables"   Max=1 Min=0.0 InitValue=0.0785 Units="Ohm"
+       Slider Desc="Rarm_CSA5" Group="DraftVariables"   Max=1 Min=0.0 InitValue=0.0 Units="Ohm"
         String Desc="Rarm_CSA5" Group="DraftVariables|Annotation" InitValue="Ohm"
        Slider Desc="RATEDISM_CSA1" Group="DraftVariables"   Max=8 Min=0.0 InitValue=2.0 Units="kA"
         String Desc="RATEDISM_CSA1" Group="DraftVariables|Annotation" InitValue="kA"
-       Slider Desc="RATEDISM_CSA2" Group="DraftVariables"   Max=8 Min=0.0 InitValue=1.0 Units="kA"
+       Slider Desc="RATEDISM_CSA2" Group="DraftVariables"   Max=8 Min=0.0 InitValue=2.0 Units="kA"
         String Desc="RATEDISM_CSA2" Group="DraftVariables|Annotation" InitValue="kA"
        Slider Desc="RATEDISM_CSA3" Group="DraftVariables"   Max=8 Min=0.0 InitValue=2.0 Units="kA"
         String Desc="RATEDISM_CSA3" Group="DraftVariables|Annotation" InitValue="kA"
@@ -601,25 +601,25 @@ SECTION: PRE_PROCESSOR
         String Desc="VDCMIN_CSA4P" Group="DraftVariables|Annotation" InitValue="PU"
        Slider Desc="VDCMIN_CSA5P" Group="DraftVariables"   Max=2 Min=0 InitValue=0.95 Units="PU"
         String Desc="VDCMIN_CSA5P" Group="DraftVariables|Annotation" InitValue="PU"
-       Slider Desc="VPRI_CSA1" Group="DraftVariables"   Max=500 Min=0.0 InitValue=400.0 Units="kV"
+       Slider Desc="VPRI_CSA1" Group="DraftVariables"   Max=500 Min=0.0 InitValue=380.0 Units="kV"
         String Desc="VPRI_CSA1" Group="DraftVariables|Annotation" InitValue="kV"
        Slider Desc="VPRI_CSA2" Group="DraftVariables"   Max=380 Min=0.0 InitValue=220.0 Units="kV"
         String Desc="VPRI_CSA2" Group="DraftVariables|Annotation" InitValue="kV"
        Slider Desc="VPRI_CSA3" Group="DraftVariables"   Max=380 Min=0.0 InitValue=220.0 Units="kV"
         String Desc="VPRI_CSA3" Group="DraftVariables|Annotation" InitValue="kV"
-       Slider Desc="VPRI_CSA4" Group="DraftVariables"   Max=500 Min=0.0 InitValue=400.0 Units="kV"
+       Slider Desc="VPRI_CSA4" Group="DraftVariables"   Max=500 Min=0.0 InitValue=380.0 Units="kV"
         String Desc="VPRI_CSA4" Group="DraftVariables|Annotation" InitValue="kV"
-       Slider Desc="VPRI_CSA5" Group="DraftVariables"   Max=500 Min=0.0 InitValue=400.0 Units="kV"
+       Slider Desc="VPRI_CSA5" Group="DraftVariables"   Max=500 Min=0.0 InitValue=380.0 Units="kV"
         String Desc="VPRI_CSA5" Group="DraftVariables|Annotation" InitValue="kV"
-       Slider Desc="VSCpkpk_CSA1" Group="DraftVariables"   Max=500 Min=0.0 InitValue=326.59863237109045 Units="kV"
+       Slider Desc="VSCpkpk_CSA1" Group="DraftVariables"   Max=500 Min=0.0 InitValue=310.2687 Units="kV"
         String Desc="VSCpkpk_CSA1" Group="DraftVariables|Annotation" InitValue="kV"
        Slider Desc="VSCpkpk_CSA2" Group="DraftVariables"   Max=400 Min=0.0 InitValue=310.2687 Units="kV"
         String Desc="VSCpkpk_CSA2" Group="DraftVariables|Annotation" InitValue="kV"
        Slider Desc="VSCpkpk_CSA3" Group="DraftVariables"   Max=400 Min=0.0 InitValue=310.2687 Units="kV"
         String Desc="VSCpkpk_CSA3" Group="DraftVariables|Annotation" InitValue="kV"
-       Slider Desc="VSCpkpk_CSA4" Group="DraftVariables"   Max=500 Min=0.0 InitValue=326.59863237109045 Units="kV"
+       Slider Desc="VSCpkpk_CSA4" Group="DraftVariables"   Max=500 Min=0.0 InitValue=310.2687 Units="kV"
         String Desc="VSCpkpk_CSA4" Group="DraftVariables|Annotation" InitValue="kV"
-       Slider Desc="VSCpkpk_CSA5" Group="DraftVariables"   Max=500 Min=0.0 InitValue=326.59863237109045 Units="kV"
+       Slider Desc="VSCpkpk_CSA5" Group="DraftVariables"   Max=500 Min=0.0 InitValue=310.2687 Units="kV"
         String Desc="VSCpkpk_CSA5" Group="DraftVariables|Annotation" InitValue="kV"
        Slider Desc="VSEC_CSA1" Group="DraftVariables"   Max=500 Min=0.0 InitValue=275.0 Units="kV"
         String Desc="VSEC_CSA1" Group="DraftVariables|Annotation" InitValue="kV"
@@ -8380,35 +8380,35 @@ RTDS.CTL.RISC_CMODEL
 COMP: RCONST 1 -1 1 0 2 0
       DRAFT_UNIQUEID=5146 HIERARCHY_BOXPARENT=4976 LOCATION=272 80
       DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA=0 INVARS=0 OUTVARS=1
-      FLOATDATA: 2000.0 Val
+      FLOATDATA: 1250.0 Val
       OUTVARS: sbase_CSA3P FCONS OUT
 END
 RTDS.CTL.RISC_CMODEL
 COMP: RCONST 1 -1 1 0 2 0
       DRAFT_UNIQUEID=10003 HIERARCHY_BOXPARENT=9833 LOCATION=272 80
       DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA=0 INVARS=0 OUTVARS=1
-      FLOATDATA: 2000.0 Val
+      FLOATDATA: 1250.0 Val
       OUTVARS: sbase_CSA2P FCONS OUT
 END
 RTDS.CTL.RISC_CMODEL
 COMP: RCONST 1 -1 1 0 2 0
       DRAFT_UNIQUEID=14907 HIERARCHY_BOXPARENT=14737 LOCATION=272 80
       DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA=0 INVARS=0 OUTVARS=1
-      FLOATDATA: 2000.0 Val
+      FLOATDATA: 1800.0 Val
       OUTVARS: sbase_CSA4P FCONS OUT
 END
 RTDS.CTL.RISC_CMODEL
 COMP: RCONST 1 -1 1 0 2 0
       DRAFT_UNIQUEID=19785 HIERARCHY_BOXPARENT=19615 LOCATION=272 80
       DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA=0 INVARS=0 OUTVARS=1
-      FLOATDATA: 2000.0 Val
+      FLOATDATA: 1800.0 Val
       OUTVARS: sbase_CSA5P FCONS OUT
 END
 RTDS.CTL.RISC_CMODEL
 COMP: RCONST 1 -1 1 0 2 0
       DRAFT_UNIQUEID=24989 HIERARCHY_BOXPARENT=24819 LOCATION=272 80
       DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA=0 INVARS=0 OUTVARS=1
-      FLOATDATA: 2000.0 Val
+      FLOATDATA: 1800.0 Val
       OUTVARS: sbase_CSA1P FCONS OUT
 END
 RTDS.CTL.RISC_CMODEL
@@ -8744,35 +8744,35 @@ RTDS.CTL.RISC_CMODEL
 COMP: RCONST 1 -1 1 0 2 0
       DRAFT_UNIQUEID=8595 HIERARCHY_BOXPARENT=7158 LOCATION=304 144
       DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA=0 INVARS=0 OUTVARS=1
-      FLOATDATA: 2000.0 Val
+      FLOATDATA: 1250.0 Val
       OUTVARS: sbase_CSA3N FCONS OUT
 END
 RTDS.CTL.RISC_CMODEL
 COMP: RCONST 1 -1 1 0 2 0
       DRAFT_UNIQUEID=13452 HIERARCHY_BOXPARENT=12015 LOCATION=304 144
       DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA=0 INVARS=0 OUTVARS=1
-      FLOATDATA: 2000.0 Val
+      FLOATDATA: 1250.0 Val
       OUTVARS: sbase_CSA2N FCONS OUT
 END
 RTDS.CTL.RISC_CMODEL
 COMP: RCONST 1 -1 1 0 2 0
       DRAFT_UNIQUEID=18356 HIERARCHY_BOXPARENT=16919 LOCATION=304 144
       DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA=0 INVARS=0 OUTVARS=1
-      FLOATDATA: 2000.0 Val
+      FLOATDATA: 1800.0 Val
       OUTVARS: sbase_CSA4N FCONS OUT
 END
 RTDS.CTL.RISC_CMODEL
 COMP: RCONST 1 -1 1 0 2 0
       DRAFT_UNIQUEID=23234 HIERARCHY_BOXPARENT=21797 LOCATION=304 144
       DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA=0 INVARS=0 OUTVARS=1
-      FLOATDATA: 2000.0 Val
+      FLOATDATA: 1800.0 Val
       OUTVARS: sbase_CSA5N FCONS OUT
 END
 RTDS.CTL.RISC_CMODEL
 COMP: RCONST 1 -1 1 0 2 0
       DRAFT_UNIQUEID=28438 HIERARCHY_BOXPARENT=27001 LOCATION=304 144
       DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA=0 INVARS=0 OUTVARS=1
-      FLOATDATA: 2000.0 Val
+      FLOATDATA: 1800.0 Val
       OUTVARS: sbase_CSA1N FCONS OUT
 END
 RTDS.CTL.RISC_CMODEL
@@ -8842,21 +8842,21 @@ RTDS.CTL.RISC_CMODEL
 COMP: RCONST 1 -1 1 0 2 0
       DRAFT_UNIQUEID=16300 HIERARCHY_BOXPARENT=14737 LOCATION=304 368
       DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA=0 INVARS=0 OUTVARS=1
-      FLOATDATA: 400.0 Val
+      FLOATDATA: 380.0 Val
       OUTVARS: Vtr__CSA4P FCONS OUT
 END
 RTDS.CTL.RISC_CMODEL
 COMP: RCONST 1 -1 1 0 2 0
       DRAFT_UNIQUEID=21178 HIERARCHY_BOXPARENT=19615 LOCATION=304 368
       DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA=0 INVARS=0 OUTVARS=1
-      FLOATDATA: 400.0 Val
+      FLOATDATA: 380.0 Val
       OUTVARS: Vtr__CSA5P FCONS OUT
 END
 RTDS.CTL.RISC_CMODEL
 COMP: RCONST 1 -1 1 0 2 0
       DRAFT_UNIQUEID=26382 HIERARCHY_BOXPARENT=24819 LOCATION=304 368
       DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA=0 INVARS=0 OUTVARS=1
-      FLOATDATA: 400.0 Val
+      FLOATDATA: 380.0 Val
       OUTVARS: Vtr__CSA1P FCONS OUT
 END
 RTDS.CTL.RISC_CMODEL
@@ -8933,7 +8933,7 @@ RTDS.CTL.RISC_CMODEL
 COMP: RCONST 1 -1 1 0 2 0
       DRAFT_UNIQUEID=9221 HIERARCHY_BOXPARENT=7158 LOCATION=336 432
       DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA=0 INVARS=0 OUTVARS=1
-      FLOATDATA: 400.0 Val
+      FLOATDATA: 380.0 Val
       OUTVARS: RT_@CON_CSA3N_4 FCONS OUT
 END
 RTDS.CTL.RISC_CMODEL
@@ -8947,42 +8947,42 @@ RTDS.CTL.RISC_CMODEL
 COMP: RCONST 1 -1 1 0 2 0
       DRAFT_UNIQUEID=18982 HIERARCHY_BOXPARENT=16919 LOCATION=336 432
       DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA=0 INVARS=0 OUTVARS=1
-      FLOATDATA: 400.0 Val
+      FLOATDATA: 380.0 Val
       OUTVARS: RT_@CON_CSA4N_4 FCONS OUT
 END
 RTDS.CTL.RISC_CMODEL
 COMP: RCONST 1 -1 1 0 2 0
       DRAFT_UNIQUEID=23860 HIERARCHY_BOXPARENT=21797 LOCATION=336 432
       DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA=0 INVARS=0 OUTVARS=1
-      FLOATDATA: 400.0 Val
+      FLOATDATA: 380.0 Val
       OUTVARS: RT_@CON_CSA5N_4 FCONS OUT
 END
 RTDS.CTL.RISC_CMODEL
 COMP: RCONST 1 -1 1 0 2 0
       DRAFT_UNIQUEID=29064 HIERARCHY_BOXPARENT=27001 LOCATION=336 432
       DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA=0 INVARS=0 OUTVARS=1
-      FLOATDATA: 400.0 Val
+      FLOATDATA: 380.0 Val
       OUTVARS: RT_@CON_CSA1N_4 FCONS OUT
 END
 RTDS.CTL.RISC_CMODEL
 COMP: RCONST 1 -1 1 0 2 0
       DRAFT_UNIQUEID=19339 LOCATION=336 1008
       DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA=0 INVARS=0 OUTVARS=1
-      FLOATDATA: 326.59863237109045 Val
+      FLOATDATA: 310.2687 Val
       OUTVARS: RT_@VALVE_CSA5_8 FCONS OUT
 END
 RTDS.CTL.RISC_CMODEL
 COMP: RCONST 1 -1 1 0 2 0
       DRAFT_UNIQUEID=24219 LOCATION=336 1008
       DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA=0 INVARS=0 OUTVARS=1
-      FLOATDATA: 326.59863237109045 Val
+      FLOATDATA: 310.2687 Val
       OUTVARS: RT_@VALVE_CSA4_8 FCONS OUT
 END
 RTDS.CTL.RISC_CMODEL
 COMP: RCONST 1 -1 1 0 2 0
       DRAFT_UNIQUEID=24537 LOCATION=336 1008
       DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA=0 INVARS=0 OUTVARS=1
-      FLOATDATA: 326.59863237109045 Val
+      FLOATDATA: 310.2687 Val
       OUTVARS: RT_@VALVE_CSA1_8 FCONS OUT
 END
 RTDS.CTL.RISC_CMODEL
@@ -16097,7 +16097,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 1 Priority = 668
       DRAFT_UNIQUEID=8591 HIERARCHY_BOXPARENT=8476 LOCATION=208 112
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 0.2 K
+    FLOATDATA: 0.0 K
     INVARS: RT_@ISLAND_CON_CSA3N_1 IEEE INP
     OUTVARS: RT_@ISLAND_CON_CSA3N_7 IEEE OUT
 END
@@ -16105,7 +16105,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 1 Priority = 669
       DRAFT_UNIQUEID=13448 HIERARCHY_BOXPARENT=13333 LOCATION=208 112
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 0.2 K
+    FLOATDATA: 0.0 K
     INVARS: RT_@ISLAND_CON_CSA2N_1 IEEE INP
     OUTVARS: RT_@ISLAND_CON_CSA2N_7 IEEE OUT
 END
@@ -16273,7 +16273,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 1 Priority = 680
       DRAFT_UNIQUEID=6486 HIERARCHY_BOXPARENT=6416 LOCATION=272 240
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 0.2 K
+    FLOATDATA: 0.0 K
     INVARS: RT_@ISLAND_CON_CSA3P_8 IEEE INP
     OUTVARS: RT_@ISLAND_CON_CSA3P_2 IEEE OUT
 END
@@ -16281,7 +16281,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 1 Priority = 681
       DRAFT_UNIQUEID=11343 HIERARCHY_BOXPARENT=11273 LOCATION=272 240
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 0.2 K
+    FLOATDATA: 0.0 K
     INVARS: RT_@ISLAND_CON_CSA2P_8 IEEE INP
     OUTVARS: RT_@ISLAND_CON_CSA2P_2 IEEE OUT
 END
@@ -20577,7 +20577,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 1692
       DRAFT_UNIQUEID=15252 HIERARCHY_BOXPARENT=14737 LOCATION=2800 1072
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA4P_4e IEEE INP
     OUTVARS: RT_@CON_CSA4P_46 IEEE OUT
 END
@@ -20585,7 +20585,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2099
       DRAFT_UNIQUEID=20130 HIERARCHY_BOXPARENT=19615 LOCATION=2800 1072
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA5P_4e IEEE INP
     OUTVARS: RT_@CON_CSA5P_46 IEEE OUT
 END
@@ -20593,7 +20593,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2506
       DRAFT_UNIQUEID=25334 HIERARCHY_BOXPARENT=24819 LOCATION=2800 1072
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA1P_4e IEEE INP
     OUTVARS: RT_@CON_CSA1P_46 IEEE OUT
 END
@@ -20617,7 +20617,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 1693
       DRAFT_UNIQUEID=15253 HIERARCHY_BOXPARENT=14737 LOCATION=2800 1168
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA4P_2q IEEE INP
     OUTVARS: RT_@CON_CSA4P_2m IEEE OUT
 END
@@ -20625,7 +20625,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2100
       DRAFT_UNIQUEID=20131 HIERARCHY_BOXPARENT=19615 LOCATION=2800 1168
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA5P_2q IEEE INP
     OUTVARS: RT_@CON_CSA5P_2m IEEE OUT
 END
@@ -20633,7 +20633,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2507
       DRAFT_UNIQUEID=25335 HIERARCHY_BOXPARENT=24819 LOCATION=2800 1168
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA1P_2q IEEE INP
     OUTVARS: RT_@CON_CSA1P_2m IEEE OUT
 END
@@ -20689,7 +20689,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 1694
       DRAFT_UNIQUEID=15254 HIERARCHY_BOXPARENT=14737 LOCATION=2800 1296
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA4P_3z IEEE INP
     OUTVARS: RT_@CON_CSA4P_45 IEEE OUT
 END
@@ -20713,7 +20713,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2101
       DRAFT_UNIQUEID=20132 HIERARCHY_BOXPARENT=19615 LOCATION=2800 1296
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA5P_3z IEEE INP
     OUTVARS: RT_@CON_CSA5P_45 IEEE OUT
 END
@@ -20737,7 +20737,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2508
       DRAFT_UNIQUEID=25336 HIERARCHY_BOXPARENT=24819 LOCATION=2800 1296
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA1P_3z IEEE INP
     OUTVARS: RT_@CON_CSA1P_45 IEEE OUT
 END
@@ -20777,7 +20777,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 1695
       DRAFT_UNIQUEID=15255 HIERARCHY_BOXPARENT=14737 LOCATION=2800 1392
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA4P_1k IEEE INP
     OUTVARS: RT_@CON_CSA4P_1n IEEE OUT
 END
@@ -20785,7 +20785,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2102
       DRAFT_UNIQUEID=20133 HIERARCHY_BOXPARENT=19615 LOCATION=2800 1392
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA5P_1k IEEE INP
     OUTVARS: RT_@CON_CSA5P_1n IEEE OUT
 END
@@ -20793,7 +20793,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2509
       DRAFT_UNIQUEID=25337 HIERARCHY_BOXPARENT=24819 LOCATION=2800 1392
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA1P_1k IEEE INP
     OUTVARS: RT_@CON_CSA1P_1n IEEE OUT
 END
@@ -20817,7 +20817,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 1696
       DRAFT_UNIQUEID=15256 HIERARCHY_BOXPARENT=14737 LOCATION=2800 1520
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA4P_3i IEEE INP
     OUTVARS: RT_@CON_CSA4P_3j IEEE OUT
 END
@@ -20825,7 +20825,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2103
       DRAFT_UNIQUEID=20134 HIERARCHY_BOXPARENT=19615 LOCATION=2800 1520
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA5P_3i IEEE INP
     OUTVARS: RT_@CON_CSA5P_3j IEEE OUT
 END
@@ -20833,7 +20833,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2510
       DRAFT_UNIQUEID=25338 HIERARCHY_BOXPARENT=24819 LOCATION=2800 1520
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA1P_3i IEEE INP
     OUTVARS: RT_@CON_CSA1P_3j IEEE OUT
 END
@@ -20857,7 +20857,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 1697
       DRAFT_UNIQUEID=15257 HIERARCHY_BOXPARENT=14737 LOCATION=2800 1616
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA4P_y IEEE INP
     OUTVARS: RT_@CON_CSA4P_23 IEEE OUT
 END
@@ -20865,7 +20865,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2104
       DRAFT_UNIQUEID=20135 HIERARCHY_BOXPARENT=19615 LOCATION=2800 1616
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA5P_y IEEE INP
     OUTVARS: RT_@CON_CSA5P_23 IEEE OUT
 END
@@ -20873,7 +20873,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2511
       DRAFT_UNIQUEID=25339 HIERARCHY_BOXPARENT=24819 LOCATION=2800 1616
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA1P_y IEEE INP
     OUTVARS: RT_@CON_CSA1P_23 IEEE OUT
 END
@@ -20897,7 +20897,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 1892
       DRAFT_UNIQUEID=18389 HIERARCHY_BOXPARENT=16919 LOCATION=2832 1296
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA4N_1n IEEE INP
     OUTVARS: RT_@CON_CSA4N_1u IEEE OUT
 END
@@ -20905,7 +20905,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2299
       DRAFT_UNIQUEID=23267 HIERARCHY_BOXPARENT=21797 LOCATION=2832 1296
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA5N_1n IEEE INP
     OUTVARS: RT_@CON_CSA5N_1u IEEE OUT
 END
@@ -20913,7 +20913,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2706
       DRAFT_UNIQUEID=28471 HIERARCHY_BOXPARENT=27001 LOCATION=2832 1296
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA1N_1n IEEE INP
     OUTVARS: RT_@CON_CSA1N_1u IEEE OUT
 END
@@ -20937,7 +20937,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 1893
       DRAFT_UNIQUEID=18391 HIERARCHY_BOXPARENT=16919 LOCATION=2832 1392
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA4N_3c IEEE INP
     OUTVARS: RT_@CON_CSA4N_3h IEEE OUT
 END
@@ -20945,7 +20945,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2300
       DRAFT_UNIQUEID=23269 HIERARCHY_BOXPARENT=21797 LOCATION=2832 1392
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA5N_3c IEEE INP
     OUTVARS: RT_@CON_CSA5N_3h IEEE OUT
 END
@@ -20953,7 +20953,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2707
       DRAFT_UNIQUEID=28473 HIERARCHY_BOXPARENT=27001 LOCATION=2832 1392
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA1N_3c IEEE INP
     OUTVARS: RT_@CON_CSA1N_3h IEEE OUT
 END
@@ -20977,7 +20977,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 1894
       DRAFT_UNIQUEID=18393 HIERARCHY_BOXPARENT=16919 LOCATION=2832 1520
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA4N_x IEEE INP
     OUTVARS: RT_@CON_CSA4N_6 IEEE OUT
 END
@@ -20985,7 +20985,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2301
       DRAFT_UNIQUEID=23271 HIERARCHY_BOXPARENT=21797 LOCATION=2832 1520
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA5N_x IEEE INP
     OUTVARS: RT_@CON_CSA5N_6 IEEE OUT
 END
@@ -20993,7 +20993,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2708
       DRAFT_UNIQUEID=28475 HIERARCHY_BOXPARENT=27001 LOCATION=2832 1520
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA1N_x IEEE INP
     OUTVARS: RT_@CON_CSA1N_6 IEEE OUT
 END
@@ -21017,7 +21017,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 1895
       DRAFT_UNIQUEID=18394 HIERARCHY_BOXPARENT=16919 LOCATION=2832 1616
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA4N_2p IEEE INP
     OUTVARS: RT_@CON_CSA4N_3s IEEE OUT
 END
@@ -21025,7 +21025,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2302
       DRAFT_UNIQUEID=23272 HIERARCHY_BOXPARENT=21797 LOCATION=2832 1616
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA5N_2p IEEE INP
     OUTVARS: RT_@CON_CSA5N_3s IEEE OUT
 END
@@ -21033,7 +21033,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2709
       DRAFT_UNIQUEID=28476 HIERARCHY_BOXPARENT=27001 LOCATION=2832 1616
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA1N_2p IEEE INP
     OUTVARS: RT_@CON_CSA1N_3s IEEE OUT
 END
@@ -21057,7 +21057,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 1896
       DRAFT_UNIQUEID=18397 HIERARCHY_BOXPARENT=16919 LOCATION=2832 1744
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA4N_3d IEEE INP
     OUTVARS: RT_@CON_CSA4N_3o IEEE OUT
 END
@@ -21065,7 +21065,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2303
       DRAFT_UNIQUEID=23275 HIERARCHY_BOXPARENT=21797 LOCATION=2832 1744
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA5N_3d IEEE INP
     OUTVARS: RT_@CON_CSA5N_3o IEEE OUT
 END
@@ -21073,7 +21073,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2710
       DRAFT_UNIQUEID=28479 HIERARCHY_BOXPARENT=27001 LOCATION=2832 1744
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA1N_3d IEEE INP
     OUTVARS: RT_@CON_CSA1N_3o IEEE OUT
 END
@@ -21097,7 +21097,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 1897
       DRAFT_UNIQUEID=18400 HIERARCHY_BOXPARENT=16919 LOCATION=2832 1840
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA4N_33 IEEE INP
     OUTVARS: RT_@CON_CSA4N_2z IEEE OUT
 END
@@ -21105,7 +21105,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2304
       DRAFT_UNIQUEID=23278 HIERARCHY_BOXPARENT=21797 LOCATION=2832 1840
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA5N_33 IEEE INP
     OUTVARS: RT_@CON_CSA5N_2z IEEE OUT
 END
@@ -21113,7 +21113,7 @@ RTDS.CTL.RISC_CMODEL
 V4COMP: ModelName = gain_cb SubSystem = 1 Processor = 2 Priority = 2711
       DRAFT_UNIQUEID=28482 HIERARCHY_BOXPARENT=27001 LOCATION=2832 1840
     DATA_SIZES: INTDATA=0 FLOATDATA=1 CHARDATA_FRMT=0 INVARS=1 OUTVARS=1
-    FLOATDATA: 240.0 K
+    FLOATDATA: 200.0 K
     INVARS: RT_@CON_CSA1N_33 IEEE INP
     OUTVARS: RT_@CON_CSA1N_2z IEEE OUT
 END
@@ -27524,7 +27524,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 1710
       DRAFT_UNIQUEID=16313 HIERARCHY_BOXPARENT=14737 LOCATION=2960 1072
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA4P_33 INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDPA_CSA4P INT Out_i _dud_ IEEE Out_r
 END
@@ -27533,7 +27533,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2117
       DRAFT_UNIQUEID=21191 HIERARCHY_BOXPARENT=19615 LOCATION=2960 1072
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA5P_33 INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDPA_CSA5P INT Out_i _dud_ IEEE Out_r
 END
@@ -27542,7 +27542,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2524
       DRAFT_UNIQUEID=26395 HIERARCHY_BOXPARENT=24819 LOCATION=2960 1072
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA1P_33 INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDPA_CSA1P INT Out_i _dud_ IEEE Out_r
 END
@@ -27569,7 +27569,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 1711
       DRAFT_UNIQUEID=16314 HIERARCHY_BOXPARENT=14737 LOCATION=2960 1168
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA4P_c INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDNA_CSA4P INT Out_i _dud_ IEEE Out_r
 END
@@ -27578,7 +27578,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2118
       DRAFT_UNIQUEID=21192 HIERARCHY_BOXPARENT=19615 LOCATION=2960 1168
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA5P_c INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDNA_CSA5P INT Out_i _dud_ IEEE Out_r
 END
@@ -27587,7 +27587,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2525
       DRAFT_UNIQUEID=26396 HIERARCHY_BOXPARENT=24819 LOCATION=2960 1168
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA1P_c INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDNA_CSA1P INT Out_i _dud_ IEEE Out_r
 END
@@ -27614,7 +27614,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 1712
       DRAFT_UNIQUEID=16315 HIERARCHY_BOXPARENT=14737 LOCATION=2960 1296
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA4P_2c INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDPB_CSA4P INT Out_i _dud_ IEEE Out_r
 END
@@ -27623,7 +27623,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2119
       DRAFT_UNIQUEID=21193 HIERARCHY_BOXPARENT=19615 LOCATION=2960 1296
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA5P_2c INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDPB_CSA5P INT Out_i _dud_ IEEE Out_r
 END
@@ -27632,7 +27632,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2526
       DRAFT_UNIQUEID=26397 HIERARCHY_BOXPARENT=24819 LOCATION=2960 1296
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA1P_2c INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDPB_CSA1P INT Out_i _dud_ IEEE Out_r
 END
@@ -27659,7 +27659,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 1713
       DRAFT_UNIQUEID=16316 HIERARCHY_BOXPARENT=14737 LOCATION=2960 1392
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA4P_3w INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDNB_CSA4P INT Out_i _dud_ IEEE Out_r
 END
@@ -27668,7 +27668,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2120
       DRAFT_UNIQUEID=21194 HIERARCHY_BOXPARENT=19615 LOCATION=2960 1392
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA5P_3w INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDNB_CSA5P INT Out_i _dud_ IEEE Out_r
 END
@@ -27677,7 +27677,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2527
       DRAFT_UNIQUEID=26398 HIERARCHY_BOXPARENT=24819 LOCATION=2960 1392
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA1P_3w INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDNB_CSA1P INT Out_i _dud_ IEEE Out_r
 END
@@ -27704,7 +27704,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 1714
       DRAFT_UNIQUEID=16317 HIERARCHY_BOXPARENT=14737 LOCATION=2960 1520
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA4P_o INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDPC_CSA4P INT Out_i _dud_ IEEE Out_r
 END
@@ -27713,7 +27713,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2121
       DRAFT_UNIQUEID=21195 HIERARCHY_BOXPARENT=19615 LOCATION=2960 1520
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA5P_o INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDPC_CSA5P INT Out_i _dud_ IEEE Out_r
 END
@@ -27722,7 +27722,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2528
       DRAFT_UNIQUEID=26399 HIERARCHY_BOXPARENT=24819 LOCATION=2960 1520
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA1P_o INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDPC_CSA1P INT Out_i _dud_ IEEE Out_r
 END
@@ -27749,7 +27749,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 1715
       DRAFT_UNIQUEID=16318 HIERARCHY_BOXPARENT=14737 LOCATION=2960 1616
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA4P_49 INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDNC_CSA4P INT Out_i _dud_ IEEE Out_r
 END
@@ -27758,7 +27758,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2122
       DRAFT_UNIQUEID=21196 HIERARCHY_BOXPARENT=19615 LOCATION=2960 1616
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA5P_49 INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDNC_CSA5P INT Out_i _dud_ IEEE Out_r
 END
@@ -27767,7 +27767,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2529
       DRAFT_UNIQUEID=26400 HIERARCHY_BOXPARENT=24819 LOCATION=2960 1616
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA1P_49 INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDNC_CSA1P INT Out_i _dud_ IEEE Out_r
 END
@@ -27794,7 +27794,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 1910
       DRAFT_UNIQUEID=18390 HIERARCHY_BOXPARENT=16919 LOCATION=2992 1296
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA4N_46 INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDPA_CSA4N INT Out_i _dud_ IEEE Out_r
 END
@@ -27803,7 +27803,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2317
       DRAFT_UNIQUEID=23268 HIERARCHY_BOXPARENT=21797 LOCATION=2992 1296
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA5N_46 INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDPA_CSA5N INT Out_i _dud_ IEEE Out_r
 END
@@ -27812,7 +27812,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2724
       DRAFT_UNIQUEID=28472 HIERARCHY_BOXPARENT=27001 LOCATION=2992 1296
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA1N_46 INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDPA_CSA1N INT Out_i _dud_ IEEE Out_r
 END
@@ -27839,7 +27839,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 1911
       DRAFT_UNIQUEID=18392 HIERARCHY_BOXPARENT=16919 LOCATION=2992 1392
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA4N_1c INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDNA_CSA4N INT Out_i _dud_ IEEE Out_r
 END
@@ -27848,7 +27848,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2318
       DRAFT_UNIQUEID=23270 HIERARCHY_BOXPARENT=21797 LOCATION=2992 1392
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA5N_1c INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDNA_CSA5N INT Out_i _dud_ IEEE Out_r
 END
@@ -27857,7 +27857,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2725
       DRAFT_UNIQUEID=28474 HIERARCHY_BOXPARENT=27001 LOCATION=2992 1392
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA1N_1c INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDNA_CSA1N INT Out_i _dud_ IEEE Out_r
 END
@@ -27884,7 +27884,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 1912
       DRAFT_UNIQUEID=18395 HIERARCHY_BOXPARENT=16919 LOCATION=2992 1520
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA4N_2g INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDPB_CSA4N INT Out_i _dud_ IEEE Out_r
 END
@@ -27893,7 +27893,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2319
       DRAFT_UNIQUEID=23273 HIERARCHY_BOXPARENT=21797 LOCATION=2992 1520
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA5N_2g INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDPB_CSA5N INT Out_i _dud_ IEEE Out_r
 END
@@ -27902,7 +27902,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2726
       DRAFT_UNIQUEID=28477 HIERARCHY_BOXPARENT=27001 LOCATION=2992 1520
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA1N_2g INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDPB_CSA1N INT Out_i _dud_ IEEE Out_r
 END
@@ -27929,7 +27929,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 1913
       DRAFT_UNIQUEID=18396 HIERARCHY_BOXPARENT=16919 LOCATION=2992 1616
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA4N_24 INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDNB_CSA4N INT Out_i _dud_ IEEE Out_r
 END
@@ -27938,7 +27938,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2320
       DRAFT_UNIQUEID=23274 HIERARCHY_BOXPARENT=21797 LOCATION=2992 1616
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA5N_24 INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDNB_CSA5N INT Out_i _dud_ IEEE Out_r
 END
@@ -27947,7 +27947,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2727
       DRAFT_UNIQUEID=28478 HIERARCHY_BOXPARENT=27001 LOCATION=2992 1616
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA1N_24 INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDNB_CSA1N INT Out_i _dud_ IEEE Out_r
 END
@@ -27974,7 +27974,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 1914
       DRAFT_UNIQUEID=18398 HIERARCHY_BOXPARENT=16919 LOCATION=2992 1744
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA4N_2w INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDPC_CSA4N INT Out_i _dud_ IEEE Out_r
 END
@@ -27983,7 +27983,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2321
       DRAFT_UNIQUEID=23276 HIERARCHY_BOXPARENT=21797 LOCATION=2992 1744
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA5N_2w INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDPC_CSA5N INT Out_i _dud_ IEEE Out_r
 END
@@ -27992,7 +27992,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2728
       DRAFT_UNIQUEID=28480 HIERARCHY_BOXPARENT=27001 LOCATION=2992 1744
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA1N_2w INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDPC_CSA1N INT Out_i _dud_ IEEE Out_r
 END
@@ -28019,7 +28019,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 1915
       DRAFT_UNIQUEID=18399 HIERARCHY_BOXPARENT=16919 LOCATION=2992 1840
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA4N_f INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDNC_CSA4N INT Out_i _dud_ IEEE Out_r
 END
@@ -28028,7 +28028,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2322
       DRAFT_UNIQUEID=23277 HIERARCHY_BOXPARENT=21797 LOCATION=2992 1840
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA5N_f INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDNC_CSA5N INT Out_i _dud_ IEEE Out_r
 END
@@ -28037,7 +28037,7 @@ V4COMP: ModelName = limits_cb SubSystem = 1 Processor = 2 Priority = 2729
       DRAFT_UNIQUEID=28481 HIERARCHY_BOXPARENT=27001 LOCATION=2992 1840
     DATA_SIZES: INTDATA=1 FLOATDATA=2 CHARDATA_FRMT=0 INVARS=2 OUTVARS=2
     INTDATA: 0 IorF
-    FLOATDATA: 240.0 ULim 0 LLim
+    FLOATDATA: 200.0 ULim 0 LLim
     INVARS: IT_@CON_CSA1N_f INT Inp_i _dud_ IEEE Inp_r
     OUTVARS: NORDNC_CSA1N INT Out_i _dud_ IEEE Out_r
 END
@@ -40594,7 +40594,7 @@ COMP: rms_meter 1 2 540 0
       DRAFT_UNIQUEID=14815 HIERARCHY_BOXPARENT=14737 LOCATION=1296 176
     DATA_SIZES: INTDATA=4 FLOATDATA=1 CHARDATA=0 INVARS=4 OUTVARS=1
     INTDATA: 0 Mode 1 pu 1 LL 1 unit
-    FLOATDATA: 400.0 Sc
+    FLOATDATA: 380.0 Sc
     INVARS: RT_@CON_CSA4P_3t IEEE NA RT_@CON_CSA4P_21 IEEE NB RT_@CON_CSA4P_2g IEEE NC _dud_ IEEE N1
     OUTVARS: RT_@CON_CSA4P_25 IEEE Out
 END
@@ -40603,7 +40603,7 @@ COMP: rms_meter 1 2 541 0
       DRAFT_UNIQUEID=19693 HIERARCHY_BOXPARENT=19615 LOCATION=1296 176
     DATA_SIZES: INTDATA=4 FLOATDATA=1 CHARDATA=0 INVARS=4 OUTVARS=1
     INTDATA: 0 Mode 1 pu 1 LL 1 unit
-    FLOATDATA: 400.0 Sc
+    FLOATDATA: 380.0 Sc
     INVARS: RT_@CON_CSA5P_3t IEEE NA RT_@CON_CSA5P_21 IEEE NB RT_@CON_CSA5P_2g IEEE NC _dud_ IEEE N1
     OUTVARS: RT_@CON_CSA5P_25 IEEE Out
 END
@@ -40612,7 +40612,7 @@ COMP: rms_meter 1 2 542 0
       DRAFT_UNIQUEID=24897 HIERARCHY_BOXPARENT=24819 LOCATION=1296 176
     DATA_SIZES: INTDATA=4 FLOATDATA=1 CHARDATA=0 INVARS=4 OUTVARS=1
     INTDATA: 0 Mode 1 pu 1 LL 1 unit
-    FLOATDATA: 400.0 Sc
+    FLOATDATA: 380.0 Sc
     INVARS: RT_@CON_CSA1P_3t IEEE NA RT_@CON_CSA1P_21 IEEE NB RT_@CON_CSA1P_2g IEEE NC _dud_ IEEE N1
     OUTVARS: RT_@CON_CSA1P_25 IEEE Out
 END
@@ -59824,8 +59824,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1NA_CSA1N 5 1 0 1
       DRAFT_UNIQUEID=24555 LOCATION=2576 2576
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA1  NORDNA_CSA1N _dud_ _dud_
@@ -59849,8 +59849,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1NA_CSA1P 5 1 0 1
       DRAFT_UNIQUEID=24561 LOCATION=2576 1264
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA1  NORDNA_CSA1P _dud_ _dud_
@@ -59875,8 +59875,8 @@ COMP:     vsc_mmc5 G1NA_CSA2N 2 1 0 1
       DRAFT_UNIQUEID=14418 LOCATION=2576 2576
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
        IDATA:    2 1 200.0 0 0
-       FDATA:    0.0003   0.0   0.0      0.0497     14875.0
-       FDATA:    4000.0  2.5 1.0  5.444E-4 50000.0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
+       FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA2  NORDNA_CSA2N _dud_ _dud_
       CINDATA:  1 nami1  G1DBLK_CSA2 0 1
@@ -59900,8 +59900,8 @@ COMP:     vsc_mmc5 G1NA_CSA2P 2 1 0 1
       DRAFT_UNIQUEID=14424 LOCATION=2576 1264
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
        IDATA:    2 1 200.0 0 0
-       FDATA:    0.0003   0.0   0.0      0.0497     14875.0
-       FDATA:    4000.0  2.5 1.0  5.444E-4 50000.0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
+       FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA2  NORDNA_CSA2P _dud_ _dud_
       CINDATA:  1 nami1  G1DBLK_CSA2 0 1
@@ -59974,8 +59974,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1NA_CSA4N 4 1 0 1
       DRAFT_UNIQUEID=24237 LOCATION=2576 2576
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA4  NORDNA_CSA4N _dud_ _dud_
@@ -59999,8 +59999,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1NA_CSA4P 4 1 0 1
       DRAFT_UNIQUEID=24243 LOCATION=2576 1264
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA4  NORDNA_CSA4P _dud_ _dud_
@@ -60024,8 +60024,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1NA_CSA5N 3 1 0 1
       DRAFT_UNIQUEID=19357 LOCATION=2576 2576
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA5  NORDNA_CSA5N _dud_ _dud_
@@ -60049,8 +60049,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1NA_CSA5P 3 1 0 1
       DRAFT_UNIQUEID=19363 LOCATION=2576 1264
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA5  NORDNA_CSA5P _dud_ _dud_
@@ -60074,8 +60074,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1NB_CSA1N 5 1 0 1
       DRAFT_UNIQUEID=24554 LOCATION=3248 2576
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA1  NORDNB_CSA1N _dud_ _dud_
@@ -60099,8 +60099,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1NB_CSA1P 5 1 0 1
       DRAFT_UNIQUEID=24560 LOCATION=3248 1264
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA1  NORDNB_CSA1P _dud_ _dud_
@@ -60125,8 +60125,8 @@ COMP:     vsc_mmc5 G1NB_CSA2N 2 1 0 1
       DRAFT_UNIQUEID=14417 LOCATION=3248 2576
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
        IDATA:    2 1 200.0 0 0
-       FDATA:    0.0003   0.0   0.0      0.0497     14875.0
-       FDATA:    4000.0  2.5 1.0  5.444E-4 50000.0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
+       FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA2  NORDNB_CSA2N _dud_ _dud_
       CINDATA:  1 nami1  G1DBLK_CSA2 0 1
@@ -60150,8 +60150,8 @@ COMP:     vsc_mmc5 G1NB_CSA2P 2 1 0 1
       DRAFT_UNIQUEID=14423 LOCATION=3248 1264
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
        IDATA:    2 1 200.0 0 0
-       FDATA:    0.0003   0.0   0.0      0.0497     14875.0
-       FDATA:    4000.0  2.5 1.0  5.444E-4 50000.0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
+       FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA2  NORDNB_CSA2P _dud_ _dud_
       CINDATA:  1 nami1  G1DBLK_CSA2 0 1
@@ -60224,8 +60224,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1NB_CSA4N 4 1 0 1
       DRAFT_UNIQUEID=24236 LOCATION=3248 2576
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA4  NORDNB_CSA4N _dud_ _dud_
@@ -60249,8 +60249,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1NB_CSA4P 4 1 0 1
       DRAFT_UNIQUEID=24242 LOCATION=3248 1264
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA4  NORDNB_CSA4P _dud_ _dud_
@@ -60274,8 +60274,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1NB_CSA5N 3 1 0 1
       DRAFT_UNIQUEID=19356 LOCATION=3248 2576
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA5  NORDNB_CSA5N _dud_ _dud_
@@ -60299,8 +60299,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1NB_CSA5P 3 1 0 1
       DRAFT_UNIQUEID=19362 LOCATION=3248 1264
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA5  NORDNB_CSA5P _dud_ _dud_
@@ -60324,8 +60324,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1NC_CSA1N 5 1 0 1
       DRAFT_UNIQUEID=24553 LOCATION=3920 2576
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA1  NORDNC_CSA1N _dud_ _dud_
@@ -60349,8 +60349,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1NC_CSA1P 5 1 0 1
       DRAFT_UNIQUEID=24559 LOCATION=3920 1264
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA1  NORDNC_CSA1P _dud_ _dud_
@@ -60375,8 +60375,8 @@ COMP:     vsc_mmc5 G1NC_CSA2N 2 1 0 1
       DRAFT_UNIQUEID=14416 LOCATION=3920 2576
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
        IDATA:    2 1 200.0 0 0
-       FDATA:    0.0003   0.0   0.0      0.0497     14875.0
-       FDATA:    4000.0  2.5 1.0  5.444E-4 50000.0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
+       FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA2  NORDNC_CSA2N _dud_ _dud_
       CINDATA:  1 nami1  G1DBLK_CSA2 0 1
@@ -60400,8 +60400,8 @@ COMP:     vsc_mmc5 G1NC_CSA2P 2 1 0 1
       DRAFT_UNIQUEID=14422 LOCATION=3920 1264
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
        IDATA:    2 1 200.0 0 0
-       FDATA:    0.0003   0.0   0.0      0.0497     14875.0
-       FDATA:    4000.0  2.5 1.0  5.444E-4 50000.0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
+       FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA2  NORDNC_CSA2P _dud_ _dud_
       CINDATA:  1 nami1  G1DBLK_CSA2 0 1
@@ -60474,8 +60474,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1NC_CSA4N 4 1 0 1
       DRAFT_UNIQUEID=24235 LOCATION=3920 2576
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA4  NORDNC_CSA4N _dud_ _dud_
@@ -60499,8 +60499,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1NC_CSA4P 4 1 0 1
       DRAFT_UNIQUEID=24241 LOCATION=3920 1264
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA4  NORDNC_CSA4P _dud_ _dud_
@@ -60524,8 +60524,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1NC_CSA5N 3 1 0 1
       DRAFT_UNIQUEID=19355 LOCATION=3920 2576
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA5  NORDNC_CSA5N _dud_ _dud_
@@ -60549,8 +60549,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1NC_CSA5P 3 1 0 1
       DRAFT_UNIQUEID=19361 LOCATION=3920 1264
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA5  NORDNC_CSA5P _dud_ _dud_
@@ -60574,8 +60574,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1PA_CSA1N 5 1 0 1
       DRAFT_UNIQUEID=24558 LOCATION=2576 1968
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA1  NORDPA_CSA1N _dud_ _dud_
@@ -60599,8 +60599,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1PA_CSA1P 5 1 0 1
       DRAFT_UNIQUEID=24564 LOCATION=2576 656
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA1  NORDPA_CSA1P _dud_ _dud_
@@ -60625,8 +60625,8 @@ COMP:     vsc_mmc5 G1PA_CSA2N 2 1 0 1
       DRAFT_UNIQUEID=14421 LOCATION=2576 1968
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
        IDATA:    2 1 200.0 0 0
-       FDATA:    0.0003   0.0   0.0      0.0497     14875.0
-       FDATA:    4000.0  2.5 1.0  5.444E-4 50000.0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
+       FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA2  NORDPA_CSA2N _dud_ _dud_
       CINDATA:  1 nami1  G1DBLK_CSA2 0 1
@@ -60650,8 +60650,8 @@ COMP:     vsc_mmc5 G1PA_CSA2P 2 1 0 1
       DRAFT_UNIQUEID=14427 LOCATION=2576 656
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
        IDATA:    2 1 200.0 0 0
-       FDATA:    0.0003   0.0   0.0      0.0497     14875.0
-       FDATA:    4000.0  2.5 1.0  5.444E-4 50000.0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
+       FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA2  NORDPA_CSA2P _dud_ _dud_
       CINDATA:  1 nami1  G1DBLK_CSA2 0 1
@@ -60724,8 +60724,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1PA_CSA4N 4 1 0 1
       DRAFT_UNIQUEID=24240 LOCATION=2576 1968
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA4  NORDPA_CSA4N _dud_ _dud_
@@ -60749,8 +60749,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1PA_CSA4P 4 1 0 1
       DRAFT_UNIQUEID=24246 LOCATION=2576 656
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA4  NORDPA_CSA4P _dud_ _dud_
@@ -60774,8 +60774,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1PA_CSA5N 3 1 0 1
       DRAFT_UNIQUEID=19360 LOCATION=2576 1968
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA5  NORDPA_CSA5N _dud_ _dud_
@@ -60799,8 +60799,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1PA_CSA5P 3 1 0 1
       DRAFT_UNIQUEID=19366 LOCATION=2576 656
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA5  NORDPA_CSA5P _dud_ _dud_
@@ -60824,8 +60824,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1PB_CSA1N 5 1 0 1
       DRAFT_UNIQUEID=24557 LOCATION=3248 1968
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA1  NORDPB_CSA1N _dud_ _dud_
@@ -60849,8 +60849,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1PB_CSA1P 5 1 0 1
       DRAFT_UNIQUEID=24563 LOCATION=3248 656
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA1  NORDPB_CSA1P _dud_ _dud_
@@ -60875,8 +60875,8 @@ COMP:     vsc_mmc5 G1PB_CSA2N 2 1 0 1
       DRAFT_UNIQUEID=14420 LOCATION=3248 1968
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
        IDATA:    2 1 200.0 0 0
-       FDATA:    0.0003   0.0   0.0      0.0497     14875.0
-       FDATA:    4000.0  2.5 1.0  5.444E-4 50000.0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
+       FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA2  NORDPB_CSA2N _dud_ _dud_
       CINDATA:  1 nami1  G1DBLK_CSA2 0 1
@@ -60900,8 +60900,8 @@ COMP:     vsc_mmc5 G1PB_CSA2P 2 1 0 1
       DRAFT_UNIQUEID=14426 LOCATION=3248 656
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
        IDATA:    2 1 200.0 0 0
-       FDATA:    0.0003   0.0   0.0      0.0497     14875.0
-       FDATA:    4000.0  2.5 1.0  5.444E-4 50000.0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
+       FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA2  NORDPB_CSA2P _dud_ _dud_
       CINDATA:  1 nami1  G1DBLK_CSA2 0 1
@@ -60974,8 +60974,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1PB_CSA4N 4 1 0 1
       DRAFT_UNIQUEID=24239 LOCATION=3248 1968
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA4  NORDPB_CSA4N _dud_ _dud_
@@ -60999,8 +60999,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1PB_CSA4P 4 1 0 1
       DRAFT_UNIQUEID=24245 LOCATION=3248 656
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA4  NORDPB_CSA4P _dud_ _dud_
@@ -61024,8 +61024,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1PB_CSA5N 3 1 0 1
       DRAFT_UNIQUEID=19359 LOCATION=3248 1968
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA5  NORDPB_CSA5N _dud_ _dud_
@@ -61049,8 +61049,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1PB_CSA5P 3 1 0 1
       DRAFT_UNIQUEID=19365 LOCATION=3248 656
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA5  NORDPB_CSA5P _dud_ _dud_
@@ -61074,8 +61074,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1PC_CSA1N 5 1 0 1
       DRAFT_UNIQUEID=24556 LOCATION=3920 1968
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA1  NORDPC_CSA1N _dud_ _dud_
@@ -61099,8 +61099,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1PC_CSA1P 5 1 0 1
       DRAFT_UNIQUEID=24562 LOCATION=3920 656
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA1  NORDPC_CSA1P _dud_ _dud_
@@ -61125,8 +61125,8 @@ COMP:     vsc_mmc5 G1PC_CSA2N 2 1 0 1
       DRAFT_UNIQUEID=14419 LOCATION=3920 1968
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
        IDATA:    2 1 200.0 0 0
-       FDATA:    0.0003   0.0   0.0      0.0497     14875.0
-       FDATA:    4000.0  2.5 1.0  5.444E-4 50000.0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
+       FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA2  NORDPC_CSA2N _dud_ _dud_
       CINDATA:  1 nami1  G1DBLK_CSA2 0 1
@@ -61150,8 +61150,8 @@ COMP:     vsc_mmc5 G1PC_CSA2P 2 1 0 1
       DRAFT_UNIQUEID=14425 LOCATION=3920 656
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
        IDATA:    2 1 200.0 0 0
-       FDATA:    0.0003   0.0   0.0      0.0497     14875.0
-       FDATA:    4000.0  2.5 1.0  5.444E-4 50000.0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
+       FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA2  NORDPC_CSA2P _dud_ _dud_
       CINDATA:  1 nami1  G1DBLK_CSA2 0 1
@@ -61224,8 +61224,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1PC_CSA4N 4 1 0 1
       DRAFT_UNIQUEID=24238 LOCATION=3920 1968
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA4  NORDPC_CSA4N _dud_ _dud_
@@ -61249,8 +61249,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1PC_CSA4P 4 1 0 1
       DRAFT_UNIQUEID=24244 LOCATION=3920 656
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA4  NORDPC_CSA4P _dud_ _dud_
@@ -61274,8 +61274,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1PC_CSA5N 3 1 0 1
       DRAFT_UNIQUEID=19358 LOCATION=3920 1968
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA5  NORDPC_CSA5N _dud_ _dud_
@@ -61299,8 +61299,8 @@ RTDS.VSC.
 COMP:     vsc_mmc5 G1PC_CSA5P 3 1 0 1
       DRAFT_UNIQUEID=19364 LOCATION=3920 656
       DATA_SIZES: INTDATA=5 FLOATDATA=12 CHARDATA=4 INVARS=4 OUTVARS=8 NODEDATA=2 ICONNDATA=2 GCONNDATA=2
-       IDATA:    2 1 240.0 0 0
-       FDATA:    0.0003   0.0   0.0785      0.025     25000.0
+       IDATA:    2 1 200.0 0 0
+       FDATA:    0.0003   0.0   0.0      0.0397     15000.0
        FDATA:    4000.0  2.5 2.0  5.444E-4 50000.0
        FDATA:    1000.0 5.0
        CDATA:    G1DBLK_CSA5  NORDPC_CSA5P _dud_ _dud_
@@ -62219,7 +62219,7 @@ COMP:  trfs1ph T1PH_CSA1N 5 1 0 2
       IDATA: 9  0  13  12  0
       IDATA: 0   0   0  0  0
       IDATA: 0  1  0
-      FDATA: 219.3931   275.0   666.667   50.0   0.0
+      FDATA: 219.3931   275.0   416.6667   50.0   0.0
       FDATA: 0.18   0.00001  0.00001 0.1  1.4
        FDATA: 0.7  1.0  0.0   0.0    0.0
        FDATA: 0.0    0.0    0.0   0.0    0.0
@@ -62262,7 +62262,7 @@ COMP:  trfs1ph T1PH_CSA1P 5 1 0 1
       IDATA: 6  0  11  10  0
       IDATA: 0   0   0  0  0
       IDATA: 0  1  0
-      FDATA: 219.3931   275.0   666.667   50.0   0
+      FDATA: 219.3931   275.0   416.6667   50.0   0
       FDATA: 0.18   0.00001  0.00001 0.1  1.4
        FDATA: 0.7  1.0  0.0   0.0    0.0
        FDATA: 0.0    0.0    0.0   0.0    0.0
@@ -62305,7 +62305,7 @@ COMP:  trfs1ph T1PH_CSA2N 2 1 0 2
       IDATA: 9  0  13  12  0
       IDATA: 0   0   0  0  0
       IDATA: 0  1  0
-      FDATA: 127.017   275.0   666.667   50.0   0.0
+      FDATA: 127.017   275.0   416.6667   50.0   0.0
       FDATA: 0.18   0.00001  0.00001 0.1  1.4
        FDATA: 0.7  1.0  0.0   0.0    0.0
        FDATA: 0.0    0.0    0.0   0.0    0.0
@@ -62348,7 +62348,7 @@ COMP:  trfs1ph T1PH_CSA2P 2 1 0 1
       IDATA: 6  0  11  10  0
       IDATA: 0   0   0  0  0
       IDATA: 0  1  0
-      FDATA: 127.017   275.0   666.667   50.0   0
+      FDATA: 127.017   275.0   416.6667   50.0   0
       FDATA: 0.18   0.00001  0.00001 0.1  1.4
        FDATA: 0.7  1.0  0.0   0.0    0.0
        FDATA: 0.0    0.0    0.0   0.0    0.0
@@ -62391,7 +62391,7 @@ COMP:  trfs1ph T1PH_CSA3N 1 1 0 2
       IDATA: 9  0  13  12  0
       IDATA: 0   0   0  0  0
       IDATA: 0  1  0
-      FDATA: 127.017   275.0   666.667   50.0   0.0
+      FDATA: 127.017   275.0   416.6667   50.0   0.0
       FDATA: 0.18   0.00001  0.00001 0.1  1.4
        FDATA: 0.7  1.0  0.0   0.0    0.0
        FDATA: 0.0    0.0    0.0   0.0    0.0
@@ -62434,7 +62434,7 @@ COMP:  trfs1ph T1PH_CSA3P 1 1 0 1
       IDATA: 6  0  11  10  0
       IDATA: 0   0   0  0  0
       IDATA: 0  1  0
-      FDATA: 127.017   275.0   666.667   50.0   0
+      FDATA: 127.017   275.0   416.6667   50.0   0
       FDATA: 0.18   0.00001  0.00001 0.1  1.4
        FDATA: 0.7  1.0  0.0   0.0    0.0
        FDATA: 0.0    0.0    0.0   0.0    0.0
@@ -62477,7 +62477,7 @@ COMP:  trfs1ph T1PH_CSA4N 4 1 0 2
       IDATA: 9  0  13  12  0
       IDATA: 0   0   0  0  0
       IDATA: 0  1  0
-      FDATA: 219.3931   275.0   666.667   50.0   0.0
+      FDATA: 219.3931   275.0   416.6667   50.0   0.0
       FDATA: 0.18   0.00001  0.00001 0.1  1.4
        FDATA: 0.7  1.0  0.0   0.0    0.0
        FDATA: 0.0    0.0    0.0   0.0    0.0
@@ -62520,7 +62520,7 @@ COMP:  trfs1ph T1PH_CSA4P 4 1 0 1
       IDATA: 6  0  11  10  0
       IDATA: 0   0   0  0  0
       IDATA: 0  1  0
-      FDATA: 219.3931   275.0   666.667   50.0   0
+      FDATA: 219.3931   275.0   416.6667   50.0   0
       FDATA: 0.18   0.00001  0.00001 0.1  1.4
        FDATA: 0.7  1.0  0.0   0.0    0.0
        FDATA: 0.0    0.0    0.0   0.0    0.0
@@ -62563,7 +62563,7 @@ COMP:  trfs1ph T1PH_CSA5N 3 1 0 2
       IDATA: 9  0  13  12  0
       IDATA: 0   0   0  0  0
       IDATA: 0  1  0
-      FDATA: 219.3931   275.0   666.667   50.0   0.0
+      FDATA: 219.3931   275.0   416.6667   50.0   0.0
       FDATA: 0.18   0.00001  0.00001 0.1  1.4
        FDATA: 0.7  1.0  0.0   0.0    0.0
        FDATA: 0.0    0.0    0.0   0.0    0.0
@@ -62606,7 +62606,7 @@ COMP:  trfs1ph T1PH_CSA5P 3 1 0 1
       IDATA: 6  0  11  10  0
       IDATA: 0   0   0  0  0
       IDATA: 0  1  0
-      FDATA: 219.3931   275.0   666.667   50.0   0
+      FDATA: 219.3931   275.0   416.6667   50.0   0
       FDATA: 0.18   0.00001  0.00001 0.1  1.4
        FDATA: 0.7  1.0  0.0   0.0    0.0
        FDATA: 0.0    0.0    0.0   0.0    0.0
