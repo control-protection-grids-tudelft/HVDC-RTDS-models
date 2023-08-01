@@ -112,7 +112,7 @@ browser2 = webdriver.Chrome(r"C:\New folder\chromedriver_win32 (1)\chromedriver.
 browser2.set_window_size(500, 800)
 browser2.set_window_position(2510, 0)
 browser1.get("https://weatherfile.com/location?loc_id=GBR00129")  # opening website
-browser2.get("https://weatherfile.com/location?loc_id=GBR00021")  # opening website
+browser2.get("https://weatherfile.com/location?loc_id=GBR00020")  # opening website
 browser2.refresh()
 browser2.refresh()
 time.sleep(0.5)
