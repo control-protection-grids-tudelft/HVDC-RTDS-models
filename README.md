@@ -19,4 +19,4 @@ license: MIT
 
 repository-code: "[https://github.com/citation-file-format/my-research-software](https://github.com/control-protection-grids-tudelft/HVDC-RTDS-models/)"
 
-Read me Document: "[https://github.com/citation-file-format/my-research-software](https://github.com/control-protection-grids-tudelft/HVDC-RTDS-models/CSE_MODEL_FX2.0/Readmedocument.pdf)"
+Read me Document: "https://github.com/control-protection-grids-tudelft/HVDC-RTDS-models/CSE_MODEL_FX2.0/Readmedocument.pdf"
