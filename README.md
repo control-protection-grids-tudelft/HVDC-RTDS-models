@@ -2,10 +2,9 @@
 Real-time models of the MMC-based multi-terminal HVDC electrical grids with North Sea ratings.
 
 message: If you use this software, please cite the following two papers.
-
+```
 @article{No1,
 title = {Interoperability of classical and advanced controllers in MMC based MTDC power system},
-
 journal = {International Journal of Electrical Power & Energy Systems},
 volume = {148},
 pages = {108980},
@@ -22,7 +21,7 @@ journal = {CIGRE Science & Engineering},
 year = {2024},
 author = {Ajay Shetgaonkar and Tanumay Karmokar and Marjan Popov and Aleksandra Lekić},
 }
-
+```
 For more questions about the repository, send an email to: Ajay Shetgaonkar (A.D.Shetgaonkar@tudelft.nl) and Aleksandra Lekić (A.Lekic@tudelft.nl)
 
 date-released: "2023-07-13"
