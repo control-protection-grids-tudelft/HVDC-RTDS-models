@@ -1,4 +1,4 @@
-![alt text](https://zenodo.org/doi/10.5281/zenodo.10828907)
+![alt text](https://zenodo.org/badge/629923195.svg)
 # HVDC-based RTDS models
 Real-time models of the MMC-based multi-terminal HVDC electrical grids with North Sea ratings.
 
