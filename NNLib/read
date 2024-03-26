@@ -1,9 +1,0 @@
-Parameters:
-in cbtest2 Prototype most functionalities are still not active. Four main parameters need to be selected when the component is loaded, these are "numInputs", "type", "numWeights", and "batch_size", the other parameters dont change anything yet.
-Only ANN type works in this component, 6 nodes for hidden layer is maximum 
-
-Inputs:
-Target: the target variable you would like to map
-input1/2/3/4: the input variable to the neural network
-Learning_rate: here the rate at which the neural network learns. I'd suggest adding a slider with a min/max of 0/0.0001, or even 0/0.00001. if still overfitted reduce the learning rate max even further. generally id recomment starting with a value of 1e-6.
-
