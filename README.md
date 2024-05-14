@@ -1,4 +1,4 @@
-[![alt text](https://zenodo.org/badge/629923195.svg)](https://zenodo.org/doi/10.5281/zenodo.10828907) ![drawing](./RTDS_models_qr.png)
+[![alt text](https://zenodo.org/badge/629923195.svg)](https://zenodo.org/doi/10.5281/zenodo.10828907) 
 
 # HVDC-based RTDS models
 Real-time models of the MMC-based multi-terminal HVDC electrical grids with North Sea ratings.
@@ -27,6 +27,7 @@ author = {Ajay Shetgaonkar and Tanumay Karmokar and Marjan Popov and Aleksandra 
 url = {https://cse.cigre.org/cse-n032/enhanced-real-time-multi-terminal-hvdc-power-system-benchmark-models-with-performance-evaluation-strategies.html}
 }
 ```
+![drawing](./RTDS_models_qr.png)
 For more questions about the repository, send an email to: Ajay Shetgaonkar (A.D.Shetgaonkar@tudelft.nl) and Aleksandra Lekić (A.Lekic@tudelft.nl)
 
 date-released: "2023-07-13"
