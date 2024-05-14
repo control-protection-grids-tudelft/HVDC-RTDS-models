@@ -28,6 +28,7 @@ url = {https://cse.cigre.org/cse-n032/enhanced-real-time-multi-terminal-hvdc-pow
 }
 ```
 ![drawing](./RTDS_models_qr.png)
+
 For more questions about the repository, send an email to: Ajay Shetgaonkar (A.D.Shetgaonkar@tudelft.nl) and Aleksandra Lekić (A.Lekic@tudelft.nl)
 
 date-released: "2023-07-13"
