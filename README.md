@@ -37,5 +37,4 @@ license: MIT
 Read me Document: "[CSE_MODEL_FX2.0/Readmedocument.pdf](https://github.com/control-protection-grids-tudelft/HVDC-RTDS-models/blob/main/CSE_MODEL_FX2.0/Readmedocument.pdf)"
 
 This repository can also be accessed using QR code:
-![drawing](./RTDS_models_qr.png)
-img[alt=drawing] { width: 200px; }
+![drawing](./RTDS_models_qr.png =250x)
