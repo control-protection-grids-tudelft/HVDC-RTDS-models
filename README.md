@@ -1,4 +1,5 @@
 [![alt text](https://zenodo.org/badge/629923195.svg)](https://zenodo.org/doi/10.5281/zenodo.10828907)
+
 # HVDC-based RTDS models
 Real-time models of the MMC-based multi-terminal HVDC electrical grids with North Sea ratings.
 
@@ -34,3 +35,6 @@ license: MIT
 
 
 Read me Document: "[CSE_MODEL_FX2.0/Readmedocument.pdf](https://github.com/control-protection-grids-tudelft/HVDC-RTDS-models/blob/main/CSE_MODEL_FX2.0/Readmedocument.pdf)"
+
+This repository can also be accessed using QR code:
+![alt text](./RTDS_models_qr.png)]
