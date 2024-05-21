@@ -27,7 +27,6 @@ author = {Ajay Shetgaonkar and Tanumay Karmokar and Marjan Popov and Aleksandra 
 url = {https://cse.cigre.org/cse-n032/enhanced-real-time-multi-terminal-hvdc-power-system-benchmark-models-with-performance-evaluation-strategies.html}
 }
 ```
-![drawing](./RTDS_models_qr.png)
 
 For more questions about the repository, send an email to: Ajay Shetgaonkar (A.D.Shetgaonkar@tudelft.nl) and Aleksandra Lekić (A.Lekic@tudelft.nl)
 
