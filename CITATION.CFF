@@ -1,17 +1,20 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
+- family-names: "Shetgaonkar"
+  given-names: "Ajay"
+  orcid: "https://orcid.org/0000-0002-2144-5215"
+- family-names: "Karmokar"
+  given-names: "Tanumay"
+  orcid: "https://orcid.org/0000-0003-4276-8117"
+- family-names: "Popov"
+  given-names: "Marjan"
+  orcid: "https://orcid.org/0000-0001-7292-5334"
 - family-names: "Lekić"
   given-names: "Aleksandra"
   orcid: "https://orcid.org/0000-0003-2727-0767"
-- family-names: "Shekhar"
-  given-names: "Aditya"
-  orcid: "https://orcid.org/0000-0002-4179-8747"
-- family-names: "Nougain"
-  given-names: "Vaibhav"
-  orcid: "https://orcid.org/0000-0002-8401-6979"
-title: "Control and protection of HVDC/AC electrical grids"
+title: "HVDC-based RTDS models"
 version: v1.0
-doi: 10.5281/zenodo.10828892
-date-released: 2024-04-03
-url: https://github.com/control-protection-grids-tudelft/Control-and-protection-of-HVDC-AC-electrical-grids-IEEE-IES-MOOC
+doi: 10.5281/zenodo.10828908
+date-released: 2024-03-26
+url: https://github.com/control-protection-grids-tudelft/HVDC-RTDS-models
